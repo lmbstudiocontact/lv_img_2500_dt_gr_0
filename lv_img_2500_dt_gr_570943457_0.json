@@ -1,1610 +1,1690 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/train_lv_img_2500_it.json",
-    "id_item": "train_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/crack_lv_img_2500_it.json",
+    "id_item": "crack_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "train",
+    "english": "crack",
     "list_mean": [
-      "xe lửa, tàu hoả",
-      "đoàn người, đàn gia súc",
-      "dòng, dãy, chuỗi, hạt; sự liên tục (của các sự kiện, loạt suy nghĩ.. nối tiếp nhau)",
-      "đuôi dài lê thê (của váy, áo choàng đàn bà)",
-      "(kỹ thuật) bộ truyền động",
-      "(ngành mỏ) ngòi (mìn)",
-      "( to train somebody as something / in something ) rèn luyện, huấn luyện; đào tạo",
-      "uốn (cây cảnh)",
-      "( to train something on somebody / something ) chĩa hoặc nhắm (súng, máy ảnh...) vào ai/cái gì",
-      "( to train as something / in something ) được huấn luyện, được đào tạo",
-      "tập luyện; tập dượt",
-      "(thông tục) đi xe lửa"
+      "(thông tục) cừ, xuất sắc",
+      "quất (roi) đét đét; búng (ngón tay) kêu tanh tách, bẻ (đốt ngón tay) kêu răng rắc",
+      "làm nứt, làm rạn, làm vỡ, kẹp vỡ",
+      "kêu răng rắc, kêu đen đét, nổ giòn",
+      "nứt nẻ, rạn nứt, vỡ, gãy ( (nghĩa đen) & (nghĩa bóng))",
+      "nói chuyện vui, nói chuyện phiếm"
     ],
-    "cau_en": "if you miss the train , there's another an hour later",
-    "cau_vn": "nếu anh lỡ chuyến tàu đó thì một giờ sau sẽ có chuyến khác",
-    "hash_code_list_mean": "412357267",
+    "cau_en": "to crack someone's credit (reputation )",
+    "cau_vn": "làm tổn thương danh dự của ai",
+    "hash_code_list_mean": "1100639496",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809339891_6066407a0c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809339891_c1110cf051_o.png",
-        "id_image": "train_613864"
+        "link_thumb": "https://live.staticflickr.com/65535/51809439873_ece9d6c547_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439873_e7a81c22bc_o.png",
+        "id_image": "cracked_1386884"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809695034_c9ea55f46b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809695034_e09b02e55a_o.png",
-        "id_image": "train_619160"
+        "link_thumb": "https://live.staticflickr.com/65535/51809439833_e2c2b3d466_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439833_bea044440f_o.png",
+        "id_image": "cracked_4772089"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809454723_8d48322a20_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809454723_c5fe98c072_o.png",
-        "id_image": "train_870120"
+        "link_thumb": "https://live.staticflickr.com/65535/51808369707_12f8ef083d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369707_6081115ebd_o.png",
+        "id_image": "crack_2332225"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810076945_8674bc6fe7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810076945_29c6335be4_o.png",
-        "id_image": "train_952356"
+        "link_thumb": "https://live.staticflickr.com/65535/51809439958_078ea39d1e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439958_a2f98d6823_o.png",
+        "id_image": "crack_645721"
       }
     ],
-    "hash_code_list_img": "-1365886989"
+    "hash_code_list_img": "-2004905343"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/bud_lv_img_2500_it.json",
-    "id_item": "bud_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/commitment_lv_img_2500_it.json",
+    "id_item": "commitment_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "bud",
+    "english": "commitment",
     "list_mean": [
-      "núm nhỏ nở ra hoa, cành hoặc chùm lá; nụ; chồi; lộc",
-      "hoa hoặc lá chưa nở hoàn toàn; hoa mới hé",
-      "(thông tục) cô gái mới dậy thì",
-      "nảy chồi; ra nụ; ra lộc",
-      "hé nở (hoa)",
-      "(nghĩa bóng) bắt đầu nảy nở (tài năng...)"
+      "( commitment to something ) sự giao phó, đưa hoặc chuyển",
+      "sự tống giam; trát tống giam",
+      "sự chuyển một dự luật cho một tiểu ban nghị viện xem xét",
+      "( commitment to something / to do something ) lời cam kết",
+      "sự tận tụy; sự tận tâm"
     ],
-    "cau_en": "buds appear on the trees in spring",
-    "cau_vn": "mùa xuân cây cối nở lộc đâm chồi",
-    "hash_code_list_mean": "197614253",
+    "cau_en": "the commitment of orphans to an orphanage",
+    "cau_vn": "việc đưa trẻ mồ côi vào trại mồ côi",
+    "hash_code_list_mean": "2008705937",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808357472_7b6a85446a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808357472_3b1f5fc534_o.png",
-        "id_image": "bud_3442558"
+        "link_thumb": "https://live.staticflickr.com/65535/51809318651_bb46522fc5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809318651_e7e7a55b14_o.png",
+        "id_image": "commitment_3317569"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809313416_5243dd3b88_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809313416_013dee8f2a_o.png",
-        "id_image": "bud_3486590"
+        "link_thumb": "https://live.staticflickr.com/65535/51810055210_757ca578c1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810055210_94c0acafd3_o.png",
+        "id_image": "commitment_4371081"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810055185_6bebd1e0b3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810055185_8f11af09d8_o.png",
+        "id_image": "commitment_4576938"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809318566_53523eae24_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809318566_66d327595a_o.png",
+        "id_image": "commitment_4729303"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808363082_d0d6a10984_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808363082_d29f111afe_o.png",
+        "id_image": "commitment_5267623"
       }
     ],
-    "hash_code_list_img": "-568214310"
+    "hash_code_list_img": "-648053613"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/binary_lv_img_2500_it.json",
-    "id_item": "binary_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/search_lv_img_2500_it.json",
+    "id_item": "search_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "binary",
+    "english": "search",
     "list_mean": [
-      "đôi, nhị nguyên, nhị phân"
+      "sự tìm kiếm; sự khám xét; sự lục soát",
+      "( to search somebody / something for somebody / something ) ( to search through something for something ) lục soát; khám xét"
     ],
-    "cau_en": "binary system , binary notation",
-    "cau_vn": "hệ nhị nguyên",
-    "hash_code_list_mean": "-1413790768",
+    "cau_en": "to search (through ) the drawers for the missing birth certificate",
+    "cau_vn": "lục hết các hộc tủ để tìm tờ giấy khai sinh bị thất lạc",
+    "hash_code_list_mean": "1207088720",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809304956_788599c001_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809304956_1955045156_o.png",
-        "id_image": "binary_1018797"
+        "link_thumb": "https://live.staticflickr.com/65535/51809680254_213815923d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809680254_fd9d535df8_o.png",
+        "id_image": "search_122920"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808349132_f0f83c7087_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808349132_20f4ce7f65_o.png",
-        "id_image": "binary_1465882"
+        "link_thumb": "https://live.staticflickr.com/65535/51809440068_13f7c89814_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809440068_905e7bb0f5_o.png",
+        "id_image": "search_281408"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808369902_f929244cde_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808369902_f3f83798a1_o.png",
+        "id_image": "search_326915"
       }
     ],
-    "hash_code_list_img": "-1125896385"
+    "hash_code_list_img": "-1506298801"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/privilege_lv_img_2500_it.json",
-    "id_item": "privilege_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/plate_lv_img_2500_it.json",
+    "id_item": "plate_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "privilege",
+    "english": "plate",
     "list_mean": [
-      "đặc quyền; đặc lợi (về một tầng lớp, cấp bậc..); đặc quyền đặc lợi",
-      "đặc ân (tạo cơ hội cho ai, cho ai ân huệ..)",
-      "quyền được nói, quyền được làm (không sợ bị trừng phạt)",
-      "cho đặc quyền; ban đặc ân (cho ai)",
-      "miễn (ai) khỏi chịu (gánh nặng...)"
+      "bản, tấm kim loại, kính bẹt, mỏng..; (sinh vật học) mảng sừng, xương.. mỏng, dẹt",
+      "(địa chất) phiến đá (cứng, lớn tạo nên bề mặt trái đất)",
+      "biển, bảng (bằng đồng...)",
+      "bản khắc kẽm; tranh khắc kẽm, bản đồ khắc kẽm; khuôn in (bằng chì...)",
+      "tấm kính ảnh, tấm kẽm chụp ảnh (thay cho phim)",
+      "(kiến trúc) đòn ngang; thanh ngang",
+      "đĩa (để đựng thức ăn); đĩa thức ăn; đĩa tương tự (đựng tiền.. bằng gỗ, kim loại)",
+      "bát, đĩa.. bằng vàng bạc (dùng tại các bữa ăn); đĩa, bát, cốc.. bằng vàng bạc (dùng trong nhà thờ)",
+      "đồ mạ (vàng, bạc)",
+      "(thể dục thể thao) cúp vàng, cúp bạc (trong đua ngựa); cúp của các cuộc đua ngựa",
+      "(thể dục thể thao) vị trí phát bóng của bên đánh bóng (trong bóng chày)",
+      "lợi giả (để cắm răng giả) (như) dental plate , denture",
+      "đường ray (như) plate rail",
+      "(nhiếp ảnh) kính được phủ màng thuốc bắt sáng nhạy",
+      "(ngành in) bát chữ",
+      "bọc sắt, bọc kim loại",
+      "mạ",
+      "(ngành in) sắp chữ thành bát"
     ],
-    "cau_en": "parliamentary privilege",
-    "cau_vn": "quyền đặc miễn tài phán",
-    "hash_code_list_mean": "-1052563556",
+    "cau_en": "to plate something with gold (silver )",
+    "cau_vn": "mạ vàng (bạc) vật gì",
+    "hash_code_list_mean": "1211870450",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809438763_8932e34b7f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809438763_c72a5ff32e_o.png",
-        "id_image": "privilege_3053782"
+        "link_thumb": "https://live.staticflickr.com/65535/51809697119_573741e3cb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697119_503fa6e90d_o.png",
+        "id_image": "plate_3534510"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808368587_f061c3c3dc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808368587_62649acd7e_o.png",
-        "id_image": "privilege_3956768"
+        "link_thumb": "https://live.staticflickr.com/65535/51808386897_242b00e7c5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808386897_0cf0134d6a_o.png",
+        "id_image": "plate_6150146"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697144_139c24e2b0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697144_f8f1e47d31_o.png",
+        "id_image": "plate_883743"
       }
     ],
-    "hash_code_list_img": "-1755924875"
+    "hash_code_list_img": "1035578142"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/habit_lv_img_2500_it.json",
-    "id_item": "habit_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/slim_lv_img_2500_it.json",
+    "id_item": "slim_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "habit",
+    "english": "slim",
     "list_mean": [
-      "thói quen, tập quán",
-      "thể chất, tạng người; vóc người",
-      "tính khí, tính tình",
-      "(sinh vật học) cách mọc; cách phát triển",
-      "bộ quần áo đi ngựa (của đàn bà) ( (cũng) riding habit )",
-      "(từ cổ,nghĩa cổ) áo (chủ yếu là của thầy tu)",
-      "mặc quần áo cho",
-      "(từ cổ,nghĩa cổ) ở, cư trú tại (một nơi nào)"
+      "mảnh khảnh, mảnh dẻ, thon, không béo, không to dày",
+      "ít ỏi, sơ sài, nghèo nàn, mỏng manh, không như người ta muốn, không như người ta mong đợi",
+      "láu, khôn lỏi, xảo quyệt",
+      "làm cho người thon nhỏ (bằng cách ăn kiêng và tập thể dục)",
+      "trở thành thon nhỏ",
+      "bùn, bùn loãng",
+      "nhớt cá",
+      "chất nhớ bẩn",
+      "Bitum lỏng",
+      "phủ đầy bùn; phủ đầy"
     ],
-    "cau_en": "to break someone / oneself off a habit",
-    "cau_vn": "làm cho ai/ mình bỏ được thói quen",
-    "hash_code_list_mean": "2138989489",
+    "cau_en": "slim possibility",
+    "cau_vn": "khả năng có thể được rất mỏng manh",
+    "hash_code_list_mean": "1616580897",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809671824_fd92c88b7c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809671824_84d3081be8_o.png",
-        "id_image": "habit_5778561"
+        "link_thumb": "https://live.staticflickr.com/65535/51808377952_f3bfa39452_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377952_621da4c1c7_o.png",
+        "id_image": "slim_412588"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810053525_cc8be86804_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810053525_177027807e_o.png",
-        "id_image": "habit_5998948"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809432138_463f95f403_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809432138_bb053e855e_o.png",
-        "id_image": "habit_6193291"
+        "link_thumb": "https://live.staticflickr.com/65535/51810069880_a8db629296_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069880_87f679eb0d_o.png",
+        "id_image": "slim_6381877"
       }
     ],
-    "hash_code_list_img": "1891502363"
+    "hash_code_list_img": "-1726005045"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/smoker_lv_img_2500_it.json",
-    "id_item": "smoker_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/decision_lv_img_2500_it.json",
+    "id_item": "decision_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "smoker",
+    "english": "decision",
     "list_mean": [
-      "người hút thuốc đều đặn, người nghiện thuốc",
-      "toa hút thuốc (trên xe lửa) (như) smoking-car , smoking-carriage",
-      "buổi hoà nhạc được phép hút thuốc (như) smoking-concert"
+      "sự giải quyết (một vấn đề...); sự phân xử, sự phán quyết (của toà án)",
+      "sự quyết định, quyết nghị",
+      "tính kiên quyết, tính quả quyết"
     ],
-    "cau_en": "smoker's heart",
-    "cau_vn": "bệnh đau tim của người nghiện thuốc lá",
-    "hash_code_list_mean": "-1110864576",
+    "cau_en": "to come to (arrive at ) a decision",
+    "cau_vn": "đi tới một quyết định",
+    "hash_code_list_mean": "916621091",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809330876_34763c73b5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809330876_9e56b25d3f_o.png",
-        "id_image": "smoker_261772"
+        "link_thumb": "https://live.staticflickr.com/65535/51810044420_97b4fa5474_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044420_a83816e497_o.png",
+        "id_image": "decision_1900209"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808375502_14581d87b3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808375502_8edcc11b17_o.png",
-        "id_image": "smoker_2934322"
+        "link_thumb": "https://live.staticflickr.com/65535/51809662719_d1549bc1aa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662719_2be638c65c_o.png",
+        "id_image": "decision_1900265"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808375452_90e9d452c3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808375452_e67d0379de_o.png",
-        "id_image": "smoker_4728075"
+        "link_thumb": "https://live.staticflickr.com/65535/51808351577_a439380e75_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808351577_de3215af68_o.png",
+        "id_image": "decision_993690"
       }
     ],
-    "hash_code_list_img": "-1643843501"
+    "hash_code_list_img": "-1473699740"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/make_lv_img_2500_it.json",
-    "id_item": "make_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/progress_lv_img_2500_it.json",
+    "id_item": "progress_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "make",
+    "english": "progress",
     "list_mean": [
-      "hình dáng, cấu tạo (của một vật); kiểu (quần áo); tầm vóc, dáng, tư thế (người)",
-      "sự chế tạo, kiểu chế tạo",
-      "thể chất; tính cách",
-      "(điện học) công tắc, cái ngắt điện",
-      "làm, chế tạo",
-      "sắp đặt, xếp đặt, dọn, thu dọn, sửa soạn, chuẩn bị",
-      "kiếm được, thu",
-      "làm, gây ra",
-      "làm, thực hiện, thi hành",
-      "khiến cho, làm cho",
-      "bắt, bắt buộc",
-      "phong, bổ nhiệm, lập, tôn",
-      "ước lượng, đánh giá, định giá, kết luận",
-      "đến; tới; (hàng hải) trông thấy",
-      "hoàn thành, đạt được, làm được, đi được",
-      "thành, là, bằng",
-      "trở thành, trở nên",
-      "nghĩ, hiểu",
-      "đi, tiến (về phía)",
-      "lên, xuống (thuỷ triều)",
-      "làm, ra ý, ra vẻ",
-      "sửa soạn, chuẩn bị"
+      "sự tiến tới, sự tiến bộ, sự đi lên",
+      "sự tiến triển, sự phát triển",
+      "sự tiến hành; sự xúc tiến",
+      "(từ cổ,nghĩa cổ) chuyến đi của một ông vua hoặc một nhà cai trị; cuộc kinh lý, cuộc tuần du",
+      "tiến tới; tiến bộ; tiến triển, phát triển",
+      "tiến hành; xúc tiến"
     ],
-    "cau_en": "I couldn't remember a story to tell the children , so I made one up as I went along",
-    "cau_vn": "Tôi không nhớ được câu chuyện để kể cho bọn trẻ nghe, thế là tôi phải bịa ra một câu chuyện khi đi đường",
-    "hash_code_list_mean": "-1522096150",
+    "cau_en": "to make much progress in one's studies",
+    "cau_vn": "tiến bộ nhiều trong học tập",
+    "hash_code_list_mean": "1694971172",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809683359_22df950ccd_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809683359_a67d42d812_o.png",
-        "id_image": "make_339986"
+        "link_thumb": "https://live.staticflickr.com/65535/51809321031_855ab09439_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809321031_4491aee601_o.png",
+        "id_image": "progress_5672044"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809676079_e2b1af72ac_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809676079_f1bd2b8f88_o.png",
+        "id_image": "progress_5672330"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809436273_479b44f692_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809436273_7fb1841aec_o.png",
+        "id_image": "progress_943765"
       }
     ],
-    "hash_code_list_img": "997692462"
+    "hash_code_list_img": "-1303388301"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/recount_lv_img_2500_it.json",
-    "id_item": "recount_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/model_lv_img_2500_it.json",
+    "id_item": "model_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "recount",
+    "english": "model",
     "list_mean": [
-      "thuật kỹ lại, kể lại chi tiết"
+      "kiểu, mẫu, mô hình",
+      "(nghĩa bóng) người làm gương, người gương mẫu",
+      "(thông tục) người giống hệt; vật giống hệt",
+      "người làm kiểu, vật làm kiểu (để vẽ, nặn tượng)",
+      "người đàn bà mặc quần áo mẫu (cho khách (xem)); quần áo mặc làm mẫu",
+      "vật mẫu",
+      "mẫu mực, gương mẫu",
+      "làm mẫu, nặn kiểu, vẽ kiểu, làm mô hình, đắp khuôn",
+      "( + after , on , upon ) làm theo, làm gương, bắt chước",
+      "làm nghề mặc quần áo làm mẫu; mặc làm mẫu"
     ],
-    "cau_en": "recount one's adventures",
-    "cau_vn": "kể lại chi tiết những chuyện phiêu lưu",
-    "hash_code_list_mean": "-543193269",
+    "cau_en": "to model a man's head in clay",
+    "cau_vn": "làm mô hình đầu người bằng đất sét",
+    "hash_code_list_mean": "1470579379",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808379052_5f18f64ec4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808379052_e435bfe946_o.png",
-        "id_image": "recount_5979033"
+        "link_thumb": "https://live.staticflickr.com/65535/51810076810_19c270fb9b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076810_44f8d14065_o.png",
+        "id_image": "model_4213112"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076765_4ac157a835_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076765_b8a8856298_o.png",
+        "id_image": "model_4695756"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810076710_6eb123d75a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810076710_f22b83e449_o.png",
+        "id_image": "model_6036762"
       }
     ],
-    "hash_code_list_img": "1279362229"
+    "hash_code_list_img": "-1668379319"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/hydraulic_lv_img_2500_it.json",
-    "id_item": "hydraulic_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/funeral_lv_img_2500_it.json",
+    "id_item": "funeral_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "hydraulic",
+    "english": "funeral",
     "list_mean": [
-      "(thuộc) nước (dẫn qua ống dẫn hoặc sông đào); chạy bằng sức nước",
-      "cứng trong nước"
+      "(thuộc) sự chôn cất, dùng trong sự chôn cất; (thuộc) đám tang; dùng trong đám tang",
+      "lễ tang; sự chôn cất",
+      "đám tang; đoàn người đưa ma",
+      "(thông tục) việc phiền toái; việc riêng"
     ],
-    "cau_en": "hydraulic generator",
-    "cau_vn": "máy thuỷ điện",
-    "hash_code_list_mean": "1887501234",
+    "cau_en": "a funeral pile (pyre )",
+    "cau_vn": "giàn thiêu (xác người chết)",
+    "hash_code_list_mean": "523590045",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809325896_6fedd9a89d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809325896_021b255f2f_o.png",
-        "id_image": "hydraulic_2387907"
+        "link_thumb": "https://live.staticflickr.com/65535/51809342101_00010a9e93_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809342101_79b0dd8c40_o.png",
+        "id_image": "funeral_1699157"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808387067_c0d7c908b1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808387067_42f0b3ef88_o.png",
+        "id_image": "funeral_3768607"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809697189_aa0f3bd55a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809697189_f2cf4b2b41_o.png",
+        "id_image": "funeral_5826070"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079390_f10d7c06ae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079390_7ce1318158_o.png",
+        "id_image": "funeral_6000833"
       }
     ],
-    "hash_code_list_img": "315841512"
+    "hash_code_list_img": "1911244395"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/expectation_lv_img_2500_it.json",
-    "id_item": "expectation_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/past_lv_img_2500_it.json",
+    "id_item": "past_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "expectation",
+    "english": "past",
     "list_mean": [
-      "( expectation of something ) sự mong chờ; sự trông mong",
-      "( expectations ) tình cảm trông cậy ở cái gì"
+      "quá khứ, dĩ vãng; đã đi qua trong thời gian",
+      "(ngữ pháp) quá khứ",
+      "vừa mới xong, vừa mới kết thúc",
+      "thuộc về thời trước kia",
+      "quá khứ, dĩ vãng; những cái đã xảy ra trước đây ( the past )",
+      "(ngôn ngữ học) mô tả hành động trong quá khứ (dạng của động từ) (như) past tense",
+      "qua",
+      "quá",
+      "quá, qua, muộn hơn, sau"
     ],
-    "cau_en": "the children waited patiently in expectation of the magician",
-    "cau_vn": "trẻ em kiên nhẫn chờ đợi nhà ảo thuật",
-    "hash_code_list_mean": "1219740249",
+    "cau_en": "the past month has been a difficult one for him",
+    "cau_vn": "tháng vừa qua là một tháng khó khăn đối với anh ta",
+    "hash_code_list_mean": "2133289375",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810047195_73798d760d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810047195_36232ccd94_o.png",
-        "id_image": "expectation_4776046"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809425353_179caf2304_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809425353_d6fcdbe5ee_o.png",
-        "id_image": "expectation_4797092"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809310281_83d5980231_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809310281_785b78ec20_o.png",
-        "id_image": "expectation_5778472"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809425313_137850cea7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809425313_65e77e16d9_o.png",
-        "id_image": "expectation_5998832"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809310236_7bff6f3d02_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809310236_cf4485d48e_o.png",
-        "id_image": "expectation_6193213"
+        "link_thumb": "https://live.staticflickr.com/65535/51810066275_3736caac84_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066275_34baccc712_o.png",
+        "id_image": "past_6214151"
       }
     ],
-    "hash_code_list_img": "959605075"
+    "hash_code_list_img": "1071793807"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/college_lv_img_2500_it.json",
-    "id_item": "college_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/paper_lv_img_2500_it.json",
+    "id_item": "paper_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "college",
+    "english": "paper",
     "list_mean": [
-      "trường cao đẳng hoặc trường chuyên nghiệp",
-      "bất kỳ một trong số những trường trung học độc lập nằm trong một số trường đại học nào đó (mỗi trường này có giảng viên, học sinh và nhà cửa riêng)",
-      "(từ Mỹ, nghĩa Mỹ) trường đại học, hoặc một bộ phận của một trường đại học, có những khoá học cho sinh viên đại học chưa tốt nghiệp",
-      "toà nhà hoặc những toà nhà của trường đại học; ký túc xá",
-      "toàn thể cán bộ nhân viên và/hoặc học sinh của một trường cao đẳng",
-      "nhóm người cùng nghề được tổ chức lại với những mục đích, nhiệm vụ hoặc đặc quyền riêng biệt; hội; đoàn"
+      "giấy",
+      "( số nhiều) giấy tờ, giấy má (giấy chứng minh, hồ sơ...)",
+      "báo",
+      "bạc giấy (như) paper money ; hối phiếu",
+      "gói giấy, túi giấy",
+      "(từ lóng) giấy vào cửa không mất tiền, vé mời (rạp hát...)",
+      "đề bài thi",
+      "bài luận văn, bài thuyết trình"
     ],
-    "cau_en": "the Oxford and Cambridge colleges",
-    "cau_vn": "trường trung học Oxford và trường trung học Cambridge",
-    "hash_code_list_mean": "-1277060386",
+    "cau_en": "on paper it looks quite safe",
+    "cau_vn": "trên giấy tờ vấn đề có vẻ rất ổn",
+    "hash_code_list_mean": "570250813",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809676749_b10e0418b2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809676749_a7c9544c10_o.png",
-        "id_image": "college_5352118"
+        "link_thumb": "https://live.staticflickr.com/65535/51808379207_620cf3c898_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379207_e3f29faa61_o.png",
+        "id_image": "paper_1032687"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809334281_1667e10365_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809334281_fa3f457fb5_o.png",
+        "id_image": "paper_1131437"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449273_e32641108d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449273_67de35a036_o.png",
+        "id_image": "paper_1188520"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808379252_594c83cca7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808379252_94f1172f66_o.png",
+        "id_image": "paper_420285"
       }
     ],
-    "hash_code_list_img": "1419182406"
+    "hash_code_list_img": "1734681088"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/indoor_lv_img_2500_it.json",
-    "id_item": "indoor_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/guide_lv_img_2500_it.json",
+    "id_item": "guide_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "indoor",
+    "english": "guide",
     "list_mean": [
-      "trong nhà"
+      "người chỉ dẫn; người chỉ đường, người hướng dẫn (cho khách du lịch)",
+      "bài học, điều chỉ dẫn, điều tốt, điều hay (cần noi theo)",
+      "như guide-book",
+      "cọc hướng dẫn; biển chỉ đường",
+      "(kỹ thuật) thiết bị dẫn đường, thanh dẫn",
+      "(quân sự) quân thám báo",
+      "(hàng hải) tàu hướng dẫn (cho cả đội tàu)",
+      "dẫn đường, chỉ đường, dắt, dẫn, hướng dẫn; chỉ đạo"
     ],
-    "cau_en": "indoor games",
-    "cau_vn": "các môn thi đấu trong nhà",
-    "hash_code_list_mean": "579647631",
+    "cau_en": "to guide somebody in (out of )",
+    "cau_vn": "đưa ai vào (ra khỏi) nơi nào",
+    "hash_code_list_mean": "375490753",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810054210_aa9bf844c9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810054210_aea8ea7574_o.png",
-        "id_image": "indoor_1522193"
+        "link_thumb": "https://live.staticflickr.com/65535/51810054805_144431cdc2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810054805_b68f00a46e_o.png",
+        "id_image": "guide_2034098"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809672409_2d148b423f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809672409_24a4ffa088_o.png",
-        "id_image": "indoor_3965846"
+        "link_thumb": "https://live.staticflickr.com/65535/51809433448_6284fb5a8c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809433448_618ef68dcd_o.png",
+        "id_image": "guide_2599840"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809432778_c6aab46835_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809432778_bb56e7ec08_o.png",
-        "id_image": "indoor_5578202"
+        "link_thumb": "https://live.staticflickr.com/65535/51808362777_f7b4e71733_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808362777_2252a36c44_o.png",
+        "id_image": "guide_405713"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809318141_d0d0aaaeaf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809318141_9deb058ece_o.png",
+        "id_image": "guide_4215303"
       }
     ],
-    "hash_code_list_img": "-2115175712"
+    "hash_code_list_img": "-1648901736"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/toe_lv_img_2500_it.json",
-    "id_item": "toe_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/drone_lv_img_2500_it.json",
+    "id_item": "drone_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "toe",
+    "english": "drone",
     "list_mean": [
-      "ngón chân (người)",
-      "ngón chân (động vật)",
-      "mũi (giày, tất)",
-      "chân (tường)",
-      "phía trước móng sắt ngựa; ổ đứng, ổ chặn",
-      "đặt ngón chân vào",
-      "đóng mũi (giày); vá (mạng) đầu mũi (bít tất)",
-      "(thể dục,thể thao) sút (bóng)",
-      "(thông tục) đá đít"
+      "(động vật học) ong mật đực",
+      "kẻ lười biếng, kẻ ăn không ngồi rồi",
+      "tiếng o o, tiếng vo ve",
+      "bài nói đều đều; người nói giọng đều đều",
+      "kèn túi; tiếng ò è của kèn túi",
+      "(từ Mỹ,nghĩa Mỹ), (hàng không) máy bay không người lái",
+      "kêu o o, kêu vo ve; kêu ò è (như) tiếng kèn túi",
+      "nói giọng đều đều",
+      "( (thường) + away ) làm biếng, ăn không ngồi rồi"
     ],
-    "cau_en": "from top to toe",
-    "cau_vn": "từ đầu đến chân",
-    "hash_code_list_mean": "706776108",
+    "cau_en": "to drone away one's life",
+    "cau_vn": "ăn không ngồi rồi phí hết cuộc đời",
+    "hash_code_list_mean": "-1937039891",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809345856_ba82b4ecc9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809345856_9e3e085d7d_o.png",
-        "id_image": "toe_2375360"
+        "link_thumb": "https://live.staticflickr.com/65535/51809452808_1307a00a80_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452808_9fc8c90e09_o.png",
+        "id_image": "drone_386472"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810083300_39fe5e5a8d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810083300_7061b95178_o.png",
-        "id_image": "toe_2688365"
+        "link_thumb": "https://live.staticflickr.com/65535/51810074945_148f702967_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074945_7547858d3a_o.png",
+        "id_image": "drone_473187"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809452753_5d26bef4d4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452753_f47316f21c_o.png",
+        "id_image": "drone_536707"
       }
     ],
-    "hash_code_list_img": "1209314025"
+    "hash_code_list_img": "1139301959"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/please_lv_img_2500_it.json",
-    "id_item": "please_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/behaviour_lv_img_2500_it.json",
+    "id_item": "behaviour_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "please",
+    "english": "behaviour",
     "list_mean": [
-      "làm vui lòng, làm hài lòng, làm vừa lòng, làm vừa ý; làm thích, làm vui",
-      "(trong các mệnh đề phụ bắt đầu bằng as hoặc what ) thấy như thế là phù hợp hoặc hợp lý; tùy ý",
-      "dùng như phép lịch sự để yêu cầu, ra lệnh",
-      "(thông tục) vâng, rất vui lòng (dùng để chấp nhận một lời đề nghị về cái gì)"
+      "cách đối xử; cách cư xử; cách ăn ở; tư cách đạo đức",
+      "cách hành động hoặc hoạt động"
     ],
-    "cau_en": "and now , if you please , I've been told I'm to get nothing for my work!",
-    "cau_vn": "và bây giờ, anh thử nghĩ xem, người ta bảo là tôi sẽ chẳng được gì cho công việc của tôi cả",
-    "hash_code_list_mean": "-463525249",
+    "cau_en": "to study the behaviour of infants , apes , bees",
+    "cau_vn": "nghiên cứu cách hoạt động của trẻ thơ, khỉ, ong",
+    "hash_code_list_mean": "1712941158",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810077885_ee75668387_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810077885_a79fc583fe_o.png",
-        "id_image": "please_5849437"
+        "link_thumb": "https://live.staticflickr.com/65535/51808352697_99cd560bcb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808352697_a590b3da34_o.png",
+        "id_image": "behaviour_3930532"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809695894_eb85cd02bc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809695894_628b9b0551_o.png",
-        "id_image": "please_599536"
+        "link_thumb": "https://live.staticflickr.com/65535/51809308536_7d2ddaca85_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308536_0dcc6c42eb_o.png",
+        "id_image": "behaviour_5308028"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809455438_7f68c9a5a3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809455438_2dfd962452_o.png",
-        "id_image": "please_6171972"
+        "link_thumb": "https://live.staticflickr.com/65535/51809308506_6da64d49e2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809308506_8251de3079_o.png",
+        "id_image": "behaviour_5778282"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663694_d71123f9f7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663694_5bf3eae389_o.png",
+        "id_image": "behaviour_5998589"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809663659_bc7bd82778_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809663659_85882ea737_o.png",
+        "id_image": "behaviour_6002351"
       }
     ],
-    "hash_code_list_img": "1669317320"
+    "hash_code_list_img": "-265645230"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/difference_lv_img_2500_it.json",
-    "id_item": "difference_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/tower_lv_img_2500_it.json",
+    "id_item": "tower_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "difference",
+    "english": "tower",
     "list_mean": [
-      "( between A and B ) ( in / of something ) sự khác nhau, tình trạng khác nhau; tính khác nhau; sự chênh lệch",
-      "sự bất đồng; mối bất hoà",
-      "sự chênh lệch về giá cả (hối phiếu... trong những thời gian khác nhau)",
-      "(toán học) hiệu; sai phân",
-      "phân biệt, phân hơn kém",
-      "(toán học) tính hiệu số, tính sai phân"
+      "tháp (ở lâu đài, nhà thờ)",
+      "tháp (ở nhà máy)",
+      "đồn luỹ, pháo đài (có tháp)",
+      "( + above ) vượt hẳn lên, cao hơn rất nhiều (so với những cái khác gần đó)",
+      "vượt xa người khác (về khả năng, phẩm chất, danh tiếng..)",
+      "bay vọt lên, vút lên"
     ],
-    "cau_en": "I'll lend you 90% of the money and you'll have to find the difference",
-    "cau_vn": "tôi cho anh mượn 90 % số tiền, phần chênh lệch do anh tự lo",
-    "hash_code_list_mean": "-306172149",
+    "cau_en": "Shakespeare towered above all his contemporaries",
+    "cau_vn": "Sếch-xpia vượt xa những nhà văn cùng thời",
+    "hash_code_list_mean": "-1383403461",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810059210_ac35a0bd53_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810059210_9f96cb00c2_o.png",
-        "id_image": "difference_2586944"
+        "link_thumb": "https://live.staticflickr.com/65535/51810079260_22ecc1d790_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079260_d1d1504de0_o.png",
+        "id_image": "tower_1835019"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810059175_262d6fa300_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810059175_10cb408836_o.png",
-        "id_image": "difference_3053704"
+        "link_thumb": "https://live.staticflickr.com/65535/51809341771_a4943a8554_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341771_4df8e22510_o.png",
+        "id_image": "tower_4458936"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809456608_4f0cf9da53_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809456608_ed9caa38b0_o.png",
+        "id_image": "tower_5559362"
       }
     ],
-    "hash_code_list_img": "-1736568237"
+    "hash_code_list_img": "-1959996355"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/ceremonial_lv_img_2500_it.json",
-    "id_item": "ceremonial_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/freeze_lv_img_2500_it.json",
+    "id_item": "freeze_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "ceremonial",
+    "english": "freeze",
     "list_mean": [
-      "nghi lễ; nghi thức",
-      "trịnh trọng; long trọng"
+      "sự đông vì lạnh, sự giá lạnh; tình trạng đông vì lạnh",
+      "tiết đông giá",
+      "sự ổn định; sự hạn định (giá cả, tiền lương...)",
+      "đóng băng",
+      "đông lại (vì lạnh), lạnh cứng",
+      "thấy lạnh, thấy giá",
+      "thấy ớn lạnh, thấy ghê ghê (vì sợ)",
+      "làm đóng băng",
+      "làm đông, làm lạnh cứng",
+      "ướp lạnh (thức ăn)",
+      "làm (ai) ớn lạnh",
+      "làm lạnh nhạt (tình cảm)",
+      "làm tê liệt (khả năng...)",
+      "ngăn cản, cản trở (sự thực hiện)",
+      "ổn định; hạn định (giá cả, tiền lương...)"
     ],
-    "cau_en": "performed with due ceremonial",
-    "cau_vn": "được tiến hành với đầy đủ nghi thức cần thiết",
-    "hash_code_list_mean": "-102666455",
+    "cau_en": "to freeze someone to death",
+    "cau_vn": "làm ai chết cóng",
+    "hash_code_list_mean": "516201940",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810052485_fe7e2c6862_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810052485_516d5bcac6_o.png",
-        "id_image": "ceremonial_2412231"
+        "link_thumb": "https://live.staticflickr.com/65535/51809427633_e2e0b88d46_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809427633_212e78b378_o.png",
+        "id_image": "freeze_3426146"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810052510_a45669befe_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810052510_cda5dacf32_o.png",
-        "id_image": "ceremonial_422117"
+        "link_thumb": "https://live.staticflickr.com/65535/51808356812_feac5333a9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808356812_79f20eeabc_o.png",
+        "id_image": "freeze_4636008"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808360247_aa9b2b0477_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808360247_6fdd5cd377_o.png",
-        "id_image": "ceremony_1699158"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809315996_c8d3a6f272_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809315996_e389d77d34_o.png",
-        "id_image": "ceremony_3965938"
+        "link_thumb": "https://live.staticflickr.com/65535/51809667629_e16d332ed2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809667629_739c0b77b9_o.png",
+        "id_image": "freeze_4865928"
       }
     ],
-    "hash_code_list_img": "544952601"
+    "hash_code_list_img": "1709933742"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/cotton_lv_img_2500_it.json",
-    "id_item": "cotton_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lunch_lv_img_2500_it.json",
+    "id_item": "lunch_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "cotton",
+    "english": "lunch",
     "list_mean": [
-      "bông",
-      "cây bông",
-      "chỉ, sợi",
-      "vải bông",
-      "hoà hợp, ăn ý",
-      "yêu, quyến luyến, ý hợp tâm đầu"
+      "bữa ăn vào giữa ngày; bữa trưa",
+      "bữa ăn nhẹ vào bất cứ lúc nào",
+      "đãi ai ăn trưa; dọn bữa ăn trưa cho ai",
+      "dùng bữa ăn trưa"
     ],
-    "cau_en": "to cotton with each other",
-    "cau_vn": "hoà hợp với nhau, ăn ý với nhau",
-    "hash_code_list_mean": "-732869444",
+    "cau_en": "we'll have a lunch after the meeting",
+    "cau_vn": "chúng ta sẽ ăn nhẹ sau buổi họp",
+    "hash_code_list_mean": "713875262",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328471_356df998b5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328471_1730a7df5d_o.png",
-        "id_image": "cotton_3174960"
+        "link_thumb": "https://live.staticflickr.com/65535/51809332446_fc08f91c9d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809332446_be2fd4d22b_o.png",
+        "id_image": "lunch_1058549"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808373192_f40c151dbe_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808373192_e1cedeacf5_o.png",
-        "id_image": "cotton_3944317"
+        "link_thumb": "https://live.staticflickr.com/65535/51809447483_549b1c2ee6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447483_f90fa299f6_o.png",
+        "id_image": "lunch_195815"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809683519_812610c0bc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809683519_601bdf5242_o.png",
-        "id_image": "cotton_4637058"
+        "link_thumb": "https://live.staticflickr.com/65535/51810069160_e6877ab9dc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069160_c58d89b85b_o.png",
+        "id_image": "lunch_1985698"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809443398_67722c3c3b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809443398_3603c15148_o.png",
-        "id_image": "cotton_5579799"
+        "link_thumb": "https://live.staticflickr.com/65535/51810069110_5c199df56c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069110_6cdb17b3db_o.png",
+        "id_image": "lunch_5483765"
       }
     ],
-    "hash_code_list_img": "-678305241"
+    "hash_code_list_img": "1977585539"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/pound_lv_img_2500_it.json",
-    "id_item": "pound_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/criminal_lv_img_2500_it.json",
+    "id_item": "criminal_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "pound",
+    "english": "criminal",
     "list_mean": [
-      "(viết tắt) IP pao (đơn vị (đo lường) trọng lượng, 16 ao xơ theo hệ thống (đo lường) của Anh Mỹ, bằng 0, 454 kg)",
-      "(viết tắt) IP pao (đơn vị (đo lường) trọng lượng, 12 ao xơ theo hệ thống trọng lượng tơ-roi, bằng 0, 373 kg)",
-      "đồng bảng Anh, pao (như) pound sterling ; đồng pao (đơn vị tiền tệ của Síp, Ai cập, Ai len, Ixraen và Manta); ( the pound ) giá trị đồng bảng Anh trên thị trường tiền tệ quốc tế",
-      "(săn bắn) thế cùng, đường cùng",
-      "chỗ nhốt trâu bò lạc (cho đến khi chủ đến xác nhận)",
-      "chỗ nhốt chó mèo lạc; nơi giam giữ xe (xe bất hợp pháp)",
-      "nghiền, giã",
-      "nện, thụi, thoi (bằng quả đấm); đánh (cái gì) bằng những cú đánh mạnh",
-      "nhốt (súc vật...) vào bãi rào; nhốt vào trại giam",
-      "đập thình thịch (trái tim..)",
-      "kiểm tra trọng lượng tiền đồng (theo trọng lượng đồng bảng Anh)",
-      "( + at , on , away at ) giã, nện, thoi, đập thình lình; (quân sự) nện vào, giã vào, nã oàng oàng vào",
-      "( + along , down , up ...) chạy rầm rập"
+      "thuộc về tội hoặc phạm tội",
+      "liên quan đến tội phạm",
+      "nhục nhã, vô đạo đức",
+      "kẻ phạm tội, tội phạm"
     ],
-    "cau_en": "guns pound away at the enemy's position",
-    "cau_vn": "đại bác nã oàng oàng vào vị trí địch",
-    "hash_code_list_mean": "-897753907",
+    "cau_en": "it's criminal the way she lies and cheats to get what she wants",
+    "cau_vn": "cung cách cô ta nói dối và lừa gạt để giành lấy những gì cô ta muốn thật là nhục nhã",
+    "hash_code_list_mean": "1452877511",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446793_bbc568cb65_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446793_cf6cd8d0e9_o.png",
-        "id_image": "pound_2349360"
+        "link_thumb": "https://live.staticflickr.com/65535/51809320231_ed9a81d0fa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809320231_4765a2d0ff_o.png",
+        "id_image": "criminal_1331408"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809686829_77ced42d1d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809686829_30bdc612a6_o.png",
-        "id_image": "pound_506129"
+        "link_thumb": "https://live.staticflickr.com/65535/51808365052_46d17a740f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808365052_8bc58494e8_o.png",
+        "id_image": "criminal_2302379"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808365022_1052a03e04_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808365022_854bf627be_o.png",
+        "id_image": "criminal_2861240"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808364952_82aef53da0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808364952_ea910be7d9_o.png",
+        "id_image": "criminal_4321413"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808364907_21554dfc66_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808364907_9193957c7d_o.png",
+        "id_image": "criminal_5640938"
       }
     ],
-    "hash_code_list_img": "-2126995704"
+    "hash_code_list_img": "727618931"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/immortal_lv_img_2500_it.json",
-    "id_item": "immortal_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/turf_lv_img_2500_it.json",
+    "id_item": "turf_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "immortal",
+    "english": "turf",
     "list_mean": [
-      "bất tử, bất diệt, bất hủ, sống mãi",
-      "người bất tử, nhà văn bất tử, nhà thơ bất tử",
-      "viện sĩ (viện hàn lâm khoa học Pháp)",
-      "( số nhiều) những vị thần bất tử",
-      "( số nhiều) (sử học) đội cận vệ hoàng gia ( Ba tư)"
+      "lớp đất mặt, lớp đất có cỏ",
+      "mảng đất mặt, mảng đất có cỏ",
+      "than bùn để đốt (ở Ireland)",
+      "( the turf ) trường đua ngựa; cuộc đua ngựa",
+      "(từ Mỹ, nghĩa Mỹ) (thông tục) hàng xóm láng giềng hoặc đất đai riêng của mình",
+      "lát bằng mảng đất có cỏ mọc"
     ],
-    "cau_en": "an immortal poem",
-    "cau_vn": "bài thơ bất hủ",
-    "hash_code_list_mean": "-755371015",
+    "cau_en": "one of the most familiar faces on the turf",
+    "cau_vn": "một trong những bộ mặt quen nhất trên trường đua ngựa",
+    "hash_code_list_mean": "432138837",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809437343_a8d299244d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809437343_a23ed07e25_o.png",
-        "id_image": "immortal_2453716"
+        "link_thumb": "https://live.staticflickr.com/65535/51809443713_2819b9b1b6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443713_513fe917b1_o.png",
+        "id_image": "turf_2296441"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808373447_7656099519_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373447_5c51cb4a4b_o.png",
+        "id_image": "turf_4977795"
       }
     ],
-    "hash_code_list_img": "1617481152"
+    "hash_code_list_img": "-230085261"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/ill_lv_img_2500_it.json",
-    "id_item": "ill_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/limit_lv_img_2500_it.json",
+    "id_item": "limit_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "ill",
+    "english": "limit",
     "list_mean": [
-      "không được khoẻ về thể xác hoặc tinh thần; ốm; đau yếu",
-      "xấu, tồi, kém; ác",
-      "không may, rủi",
-      "(từ cổ,nghĩa cổ) khó",
-      "xấu, tồi, kém; sai; ác",
-      "khó chịu",
-      "không lợi, không may, rủi cho",
-      "khó mà, hầu như, không thể",
-      "điều xấu, việc ác, điều hại",
-      "( số nhiều) những vụ rủi ro, những điều bất hạnh"
+      "giới hạn, ranh giới, hạn định",
+      "(thông tục) ( the limit ) người quá quắc; điều quá quắc",
+      "giới hạn, hạn chế"
     ],
-    "cau_en": "to fall ill ; to be taken ill",
-    "cau_vn": "bị ốm",
-    "hash_code_list_mean": "561849831",
+    "cau_en": "You really are the (absolute ) limit",
+    "cau_vn": "Anh (chị) thật là quá quắt!",
+    "hash_code_list_mean": "-455216831",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809323526_e80a0c29ef_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809323526_ba58c10535_o.png",
-        "id_image": "ill_2341906"
+        "link_thumb": "https://live.staticflickr.com/65535/51808386712_88cb5bab88_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808386712_1f43695198_o.png",
+        "id_image": "limit_2867806"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810079035_d91f8f32dd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810079035_789cfc601f_o.png",
+        "id_image": "limit_3590347"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810078995_265c92fb84_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810078995_25519d8ca8_o.png",
+        "id_image": "limit_3898120"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809696764_32f56ee697_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809696764_434cd0136b_o.png",
+        "id_image": "limit_6306394"
       }
     ],
-    "hash_code_list_img": "1682860717"
+    "hash_code_list_img": "394078925"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/born_lv_img_2500_it.json",
-    "id_item": "born_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/suspicious_lv_img_2500_it.json",
+    "id_item": "suspicious_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "born",
+    "english": "suspicious",
     "list_mean": [
-      "(không có by theo sau) ra đời nhờ sự sinh đẻ",
-      "có một phẩm chất hoặc khả năng tự nhiên đặc biệt; bẩm sinh",
-      "(tạo nên danh từ và tính từ ghép) có một thứ tự, địa vị hoặc nơi sinh đặc biệt"
+      "( suspicious about / of somebody / something ) có sự nghi ngờ, tỏ ra có sự nghi ngờ",
+      "gây ra nghi ngờ; đáng ngờ, khả nghi; ám muội, mập mờ (thái độ...)"
     ],
-    "cau_en": "The Trades Union movement was born in the early years of the century",
-    "cau_vn": "Phong trào công đoàn ra đời những năm đầu thế kỷ",
-    "hash_code_list_mean": "-818952101",
+    "cau_en": "it's suspicious that he has been the sweetheart of the victim",
+    "cau_vn": "điều đáng ngờ là hắn từng là người yêu của nạn nhân",
+    "hash_code_list_mean": "1646189102",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809437258_fd29dd7344_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809437258_9777c689e5_o.png",
-        "id_image": "born_5375923"
+        "link_thumb": "https://live.staticflickr.com/65535/51809449898_3e15a105a5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449898_a7c9d7ab45_o.png",
+        "id_image": "suspicious_260247"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810058795_a31a3415f2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810058795_0170400227_o.png",
-        "id_image": "born_5375936"
+        "link_thumb": "https://live.staticflickr.com/65535/51809689884_091bc1d46a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809689884_9cf784f819_o.png",
+        "id_image": "suspicious_2920104"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809449798_7e2880fa65_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809449798_48be4fb603_o.png",
+        "id_image": "suspicious_2977979"
       }
     ],
-    "hash_code_list_img": "-1531414731"
+    "hash_code_list_img": "-964957962"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/presentation_lv_img_2500_it.json",
-    "id_item": "presentation_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/channel_lv_img_2500_it.json",
+    "id_item": "channel_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "presentation",
+    "english": "channel",
     "list_mean": [
-      "sự bày ra, sự phô ra",
-      "sự trình diện, sự trình diễn, sự trưng bày; cách trình bày, cách trình diễn. cách trưng bày",
-      "vật trưng bày, điều được trình bày",
-      "sự giới thiệu; sự đưa vào yết kiến, sự đưa vào bệ kiến",
-      "sự biếu, sự tặng; quà biếu, đồ tặng (đặc biệt thứ được trao trong buổi lễ chính thức)",
-      "vị trí đứa bé trong bụng mẹ lúc trước sinh ra"
+      "eo biển",
+      "lòng sông, lòng suối",
+      "kênh mương, lạch; ống dẫn (nước dầu...)",
+      "(nghĩa bóng) đường; nguồn (tin tức, ý nghĩ, tư tưởng...)",
+      "(rađiô) kênh",
+      "(kiến trúc) đường xoi",
+      "(kỹ thuật) máng, rãnh",
+      "đào rãnh, đào mương",
+      "chảy xói (đất) thành khe rãnh (nước mưa)",
+      "chuyển",
+      "hướng vào (cái gì), xoáy vào (cái gì)",
+      "(kiến trúc) bào đường xoi"
     ],
-    "cau_en": "the presentation of a new play",
-    "cau_vn": "sự trình diễn một vở kịch mới",
-    "hash_code_list_mean": "1046009156",
+    "cau_en": "secret channels of information",
+    "cau_vn": "những nguồn tin mật",
+    "hash_code_list_mean": "-1949113958",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328231_b3aa01af1d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328231_cc9a91f848_o.png",
-        "id_image": "presentation_287514"
+        "link_thumb": "https://live.staticflickr.com/65535/51809429058_71ecf13d8d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809429058_bff66bfe50_o.png",
+        "id_image": "channel_1207578"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810064975_b77a76342c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810064975_f202d38995_o.png",
-        "id_image": "presentation_439299"
+        "link_thumb": "https://live.staticflickr.com/65535/51809314116_ddc5119297_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809314116_739a763f05_o.png",
+        "id_image": "channel_4062101"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328166_88fa768f4c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328166_573f7e031b_o.png",
-        "id_image": "presentation_562522"
+        "link_thumb": "https://live.staticflickr.com/65535/51808358307_7d991f8e2d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808358307_fc6e2702d2_o.png",
+        "id_image": "channel_4577178"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809314036_3965b4e757_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809314036_ffe06cd301_o.png",
+        "id_image": "channel_5853646"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810050830_2716e78a7d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810050830_9f5d9f0f6a_o.png",
+        "id_image": "channel_650975"
       }
     ],
-    "hash_code_list_img": "-38164706"
+    "hash_code_list_img": "-586567924"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/degree_lv_img_2500_it.json",
-    "id_item": "degree_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/fault_lv_img_2500_it.json",
+    "id_item": "fault_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "degree",
+    "english": "fault",
     "list_mean": [
-      "(viết tắt) là deg đơn vị đo nhiệt; độ",
-      "mức độ, trình độ",
-      "mức trong một cung bậc nghiêm ngặt",
-      "địa vị trong xã hội",
-      "học vị; bằng cấp",
-      "đơn vị đo góc; độ",
-      "(toán học) bậc",
-      "(ngôn ngữ học) cấp"
+      "khiếm khuyết hoặc thiếu sót; lỗi lầm; khuyết điểm",
+      "(trách nhiệm về một) sai lầm; tội; lỗi",
+      "(địa lý,địa chất) phay, sự đứt đoạn",
+      "(điện học) sự rò, sự lạc",
+      "(kỹ thuật) sự hỏng, sự hư hỏng",
+      "(thể dục,thể thao) sự giao bóng nhầm ô; quả bóng giao nhầm ô (quần vợt)",
+      "chê trách; chê bai"
     ],
-    "cau_en": "water freezes at 32 degrees Farenheit or zero /nought degree Celsius",
-    "cau_vn": "nước đóng băng ở 32 độ Farenheit hoặc zêrô độ Celsius",
-    "hash_code_list_mean": "-258040606",
+    "cau_en": "there is a fault in the electrical system",
+    "cau_vn": "có một chỗ hỏng trong hệ thống điện",
+    "hash_code_list_mean": "87840688",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810042620_519b5fcd94_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810042620_869f22c5ed_o.png",
-        "id_image": "degree_1440972"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809661109_db96f63905_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809661109_84296b1e8e_o.png",
-        "id_image": "degree_2036626"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810042610_92893b4f78_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810042610_4f1fe8b91e_o.png",
-        "id_image": "degree_2070913"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809305646_4f352c472a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809305646_3a8fab256f_o.png",
-        "id_image": "degree_2234743"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809661089_b897658c9f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809661089_8010e66a22_o.png",
-        "id_image": "degree_4650621"
+        "link_thumb": "https://live.staticflickr.com/65535/51810071230_3fa7407515_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071230_d77405767a_o.png",
+        "id_image": "fault_2867347"
       }
     ],
-    "hash_code_list_img": "-1850752637"
+    "hash_code_list_img": "79685724"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/envy_lv_img_2500_it.json",
-    "id_item": "envy_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/opportunity_lv_img_2500_it.json",
+    "id_item": "opportunity_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "envy",
+    "english": "opportunity",
     "list_mean": [
-      "( envy of somebody ) ( envy at / of something ) sự thèm muốn, sự ghen tị, sự đố kỵ",
-      "( the envy of somebody ) vật làm người ta thèm muốn; người làm người ta ghen tị; lý do làm người ta thèm muốn, lý do làm người ta ghen tị",
-      "thèm muốn, ghen tị, đố kỵ"
+      "( opportunity for / of doing something / to do something ) cơ hội, thời cơ"
     ],
-    "cau_en": "they only said such unkind things about you out of envy",
-    "cau_vn": "họ nói những điều không tốt về anh cũng chỉ vì ghen tị mà thôi",
-    "hash_code_list_mean": "64047768",
+    "cau_en": "to have no /little /not much opportunity for hearing good music",
+    "cau_vn": "không có/có ít/không có nhiều cơ hội nghe nhạc hay",
+    "hash_code_list_mean": "1435249450",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810053570_7a71d7bb03_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810053570_61335c4220_o.png",
-        "id_image": "envy_3362436"
+        "link_thumb": "https://live.staticflickr.com/65535/51809345516_452e2c734e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809345516_a5d718e3da_o.png",
+        "id_image": "opportunity_1900254"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809671819_5a6385e4af_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809671819_f4f8aacedc_o.png",
-        "id_image": "envy_6000894"
+        "link_thumb": "https://live.staticflickr.com/65535/51809460253_823c6b2164_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809460253_882d86a4e8_o.png",
+        "id_image": "opportunity_1900267"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809432158_596ab818fe_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809432158_7efbd3847d_o.png",
-        "id_image": "envy_6002668"
+        "link_thumb": "https://live.staticflickr.com/65535/51810082885_3ebd973a26_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810082885_2165d0ca5d_o.png",
+        "id_image": "opportunity_3447933"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808361457_03778b5aff_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808361457_ccc557e032_o.png",
-        "id_image": "envy_708644"
+        "link_thumb": "https://live.staticflickr.com/65535/51809700559_53a22d9bc9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809700559_66366353be_o.png",
+        "id_image": "opportunity_6064806"
       }
     ],
-    "hash_code_list_img": "953236375"
+    "hash_code_list_img": "-1536351333"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/cavity_lv_img_2500_it.json",
-    "id_item": "cavity_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/permission_lv_img_2500_it.json",
+    "id_item": "permission_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "cavity",
+    "english": "permission",
     "list_mean": [
-      "lỗ hổng",
-      "(giải phẫu) hố hốc, ổ, khoang"
+      "sự cho phép, sự chấp nhận; giấy phép"
     ],
-    "cau_en": "nasal cavity",
-    "cau_vn": "khoang mũi",
-    "hash_code_list_mean": "1452047511",
+    "cau_en": "with your kind permission",
+    "cau_vn": "với sự rộng lượng cho phép của ông (nếu ông cho phép)",
+    "hash_code_list_mean": "692682927",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808362727_e1a0fbba39_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808362727_92743e0802_o.png",
-        "id_image": "cavities_1338982"
+        "link_thumb": "https://live.staticflickr.com/65535/51810057200_8a4f962fff_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810057200_6848e2e5e7_o.png",
+        "id_image": "permission_2172839"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809318146_61a6ae6fa1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809318146_d742e3c628_o.png",
-        "id_image": "cavities_2681995"
+        "link_thumb": "https://live.staticflickr.com/65535/51808365367_38e9119abd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808365367_471cf897ff_o.png",
+        "id_image": "permission_3663412"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810054740_1c4fe1913d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810054740_b6a9027df8_o.png",
-        "id_image": "cavity_3360481"
+        "link_thumb": "https://live.staticflickr.com/65535/51809675384_79814c3e19_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809675384_3484555e79_o.png",
+        "id_image": "permission_4391723"
       }
     ],
-    "hash_code_list_img": "680693211"
+    "hash_code_list_img": "-551871183"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/function_lv_img_2500_it.json",
-    "id_item": "function_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/suffrage_lv_img_2500_it.json",
+    "id_item": "suffrage_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "function",
+    "english": "suffrage",
     "list_mean": [
-      "chức năng",
-      "( số nhiều) nhiệm vụ, trách nhiệm",
-      "buổi lễ; buổi họp mặt chính thức, buổi họp mặt quan trọng",
-      "(toán học) hàm, hàm số",
-      "(hoá học) chức",
-      "hoạt động; chạy (máy)",
-      "thực hiện chức năng"
+      "sự bỏ phiếu; quyền đi bầu",
+      "kinh cầu thánh"
     ],
-    "cau_en": "the functions of a judge",
-    "cau_vn": "nhiệm vụ của quan toà",
-    "hash_code_list_mean": "1356206932",
+    "cau_en": "women had to fight for their suffrage",
+    "cau_vn": "phụ nữ đã phải đấu tranh giành quyền bầu cử của họ",
+    "hash_code_list_mean": "-1170071056",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809457443_8ca3aac4e5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809457443_74e311b650_o.png",
-        "id_image": "function_4496243"
+        "link_thumb": "https://live.staticflickr.com/65535/51809338961_5a1c320b4f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809338961_66efa2dc8a_o.png",
+        "id_image": "suffrage_1425432"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809457393_c3f1e463d9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809457393_c55fe47fce_o.png",
-        "id_image": "function_5486008"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810080140_3389284ac8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810080140_0a84198ac6_o.png",
-        "id_image": "function_994633"
+        "link_thumb": "https://live.staticflickr.com/65535/51809453908_d37c85c288_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809453908_882597218f_o.png",
+        "id_image": "suffrage_5234470"
       }
     ],
-    "hash_code_list_img": "-1957869860"
+    "hash_code_list_img": "816652746"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/murder_lv_img_2500_it.json",
-    "id_item": "murder_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/tether_lv_img_2500_it.json",
+    "id_item": "tether_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "murder",
+    "english": "tether",
     "list_mean": [
-      "vụ án mạng; tội giết người",
-      "một việc rất gay go",
-      "( murder on something ) cái gây tổn hại lớn hoặc sự khó chịu",
-      "( to murder somebody with something ) giết; tàn sát",
-      "(nghĩa bóng) làm hư; làm hỏng (vì vụng về hoặc thiếu hiểu biết)"
+      "dây dắt (dây thừng, xích buộc một con vật khi nó đang ăn cỏ)",
+      "phạm vi, giới hạn (hiểu biết, chịu đựng...)",
+      "buộc, cột bằng dây"
     ],
-    "cau_en": "1500 civilians died in one air raid : it was sheer murder",
-    "cau_vn": "1500 thường dân thiệt mạng trong một trận oanh tạc : quả là một cuộc thảm sát",
-    "hash_code_list_mean": "635394747",
+    "cau_en": "to be at the end of one's tether",
+    "cau_vn": "kiệt sức, hết hơi; hết phương kế",
+    "hash_code_list_mean": "1598026526",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446668_2446a4b6df_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446668_be17fc64f1_o.png",
-        "id_image": "murder_1256809"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446623_46f776888d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446623_6b82757c10_o.png",
-        "id_image": "murder_2323041"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446608_c17ac7735e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446608_80d4b1f4bf_o.png",
-        "id_image": "murder_5411101"
+        "link_thumb": "https://live.staticflickr.com/65535/51809351156_71b92698e6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809351156_7a66bc6d7b_o.png",
+        "id_image": "tether_4610964"
       }
     ],
-    "hash_code_list_img": "-400287638"
+    "hash_code_list_img": "866379258"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/telescope_lv_img_2500_it.json",
-    "id_item": "telescope_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/shame_lv_img_2500_it.json",
+    "id_item": "shame_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "telescope",
+    "english": "shame",
     "list_mean": [
-      "kính viễn vọng, kính thiên văn",
-      "trở nên ngắn hơn (bằng cách lồng các đoạn của nó vào nhau)",
-      "lồng nhau (như) hai ống của kính thiên văn",
-      "đâm vào nhau, lút vào nhau bẹp dí (xe lửa)",
-      "làm cho ngắn hơn (bằng cách lồng các đoạn của nó vào nhau)",
-      "(thông tục) thâu tóm, thu gọn lại"
+      "sự xấu hổ, sự tủi thẹn",
+      "sự ngượng ngùng",
+      "điều ô danh; nỗi nhục",
+      "( a shame ) người hoặc vật gây ra điều hổ thẹn hoặc đáng khinh; điều ân hận, điều đáng tiếc",
+      "làm cho ai cảm thấy hổ thẹn, làm cho ai xấu hổ",
+      "làm nhục, làm ô danh"
     ],
-    "cau_en": "he telescopes all his arguments into one sentence",
-    "cau_vn": "anh ta thâu tóm tất cả lý lẽ của mình vào một câu",
-    "hash_code_list_mean": "-2103961661",
+    "cau_en": "it's quite shaming that our society cares so little for the poor",
+    "cau_vn": "thật đáng hổ thẹn là xã hội ta ít chăm sóc người nghèo",
+    "hash_code_list_mean": "2085933568",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810090155_af1915752e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810090155_bb46e536f4_o.png",
-        "id_image": "telescope_167341"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810090130_334810dcdd_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810090130_f9ba28da15_o.png",
-        "id_image": "telescope_178545"
+        "link_thumb": "https://live.staticflickr.com/65535/51810084780_bf47b6bf73_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810084780_a9f32ce169_o.png",
+        "id_image": "shame_708695"
       }
     ],
-    "hash_code_list_img": "2073661567"
+    "hash_code_list_img": "1334973425"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/conclusion_lv_img_2500_it.json",
-    "id_item": "conclusion_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/sad_lv_img_2500_it.json",
+    "id_item": "sad_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "conclusion",
+    "english": "sad",
     "list_mean": [
-      "sự kết thúc, sự chấm dứt; phần cuối",
-      "sự kết luận, phần kết luận",
-      "sự ký kết (hiệp ước...)"
+      "buồn rầu, buồn bã",
+      "tồi; đáng trách",
+      "đáng buồn; làm cho cảm thấy thương hại, làm cho cảm thấy ân hận",
+      "không xốp, chắc (bánh)",
+      "chết (màu sắc)"
     ],
-    "cau_en": "what conclusions do you draw (from what he has just said )?",
-    "cau_vn": "anh rút ra kết luận gì (từ những điều hắn vừa nói)?",
-    "hash_code_list_mean": "1797110152",
+    "cau_en": "a sad state of affairs",
+    "cau_vn": "một tình trạng tồi tệ về công việc",
+    "hash_code_list_mean": "-241961381",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809313526_57b9841d1b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809313526_62e591c5e3_o.png",
-        "id_image": "conclusion_6079733"
+        "link_thumb": "https://live.staticflickr.com/65535/51809693139_7e052024e6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809693139_42d905b77f_o.png",
+        "id_image": "sad_1128885"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808382877_790f765923_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808382877_83884b3c74_o.png",
+        "id_image": "sad_599625"
       }
     ],
-    "hash_code_list_img": "36635786"
+    "hash_code_list_img": "-139851851"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/sea_lv_img_2500_it.json",
-    "id_item": "sea_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/commute_lv_img_2500_it.json",
+    "id_item": "commute_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "sea",
+    "english": "commute",
     "list_mean": [
-      "( the sea , seas ) ( số nhiều) biển",
-      "( Sea ) vùng biển riêng (nhỏ hơn đại dương); hồ nước ngọt, hồ nước mặn lớn nằm trong đất liền",
-      "( số nhiều) sự chuyển động của sóng biển",
-      "sóng biển",
-      "biển (khoảng rộng (như) biển); nhiều (về số lượng)"
+      "đi lại thường xuyên bằng xe búyt, xe lửa hoặc ô tô giữa nơi làm việc và nhà ở",
+      "(pháp lý) ( to commute something to something ) thay thế (một hình phạt) bằng một hình phạt khác nhẹ hơn; giảm tội",
+      "( to commute something for / into something ) đổi cái gì (nhất là một hình thức thanh toán) sang hoặc lấy một cái khác"
     ],
-    "cau_en": "sea like a looking-glass",
-    "cau_vn": "biển yên gió lặng",
-    "hash_code_list_mean": "677649030",
+    "cau_en": "to commute a death sentence to life imprisonment",
+    "cau_vn": "giảm án tử hình xuống án tù chung thân",
+    "hash_code_list_mean": "-115432906",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809680804_0e70312dbd_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809680804_fea01cc774_o.png",
-        "id_image": "sea_1867451"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808370472_cc4f9f1be6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808370472_46f3e98a8f_o.png",
-        "id_image": "sea_2507565"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809325616_25db719038_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809325616_0443e91933_o.png",
-        "id_image": "sea_5398376"
+        "link_thumb": "https://live.staticflickr.com/65535/51809432768_777c2c6fb5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809432768_20fbcf6a40_o.png",
+        "id_image": "commute_3772931"
       }
     ],
-    "hash_code_list_img": "-1808035753"
+    "hash_code_list_img": "1207935591"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/employment_lv_img_2500_it.json",
-    "id_item": "employment_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/team_lv_img_2500_it.json",
+    "id_item": "team_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "employment",
+    "english": "team",
     "list_mean": [
-      "hành động thuê người làm; công việc",
-      "tình trạng được thuê làm công; việc làm",
-      "việc làm (nhất là việc làm (thường) xuyên được trả lương)"
+      "đội, nhóm (các đấu thủ trong các trò chơi, trong thể thao)",
+      "đội, nhóm, tổ (những người cùng làm việc với nhau)",
+      "cỗ (hai hay nhiều hơn con vật cùng kéo một chiếc xe, cái cày..)",
+      "thắng (ngựa...) vào xe",
+      "hợp thành đội, hợp thành tổ",
+      "( + up ) ( with somebody ) cùng làm việc (với ai); hợp sức (với ai)"
     ],
-    "cau_en": "the expansion of the factory will mean the employment of sixty extra workers",
-    "cau_vn": "việc mở rộng nhà máy có nghĩa là có công ăn việc làm cho sáu chục công nhân nữa",
-    "hash_code_list_mean": "-619569204",
+    "cau_en": "a football team",
+    "cau_vn": "một đội bóng",
+    "hash_code_list_mean": "-422123168",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365762_06ed3e4d15_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365762_c7a8377992_o.png",
-        "id_image": "employment_1924552"
+        "link_thumb": "https://live.staticflickr.com/65535/51809708224_6b573952ae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809708224_ac33445625_o.png",
+        "id_image": "team_228369"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809435998_9805d96c93_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809435998_6f7d4b8434_o.png",
-        "id_image": "employment_2419582"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809675864_b63621f5a3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809675864_2a1c927124_o.png",
-        "id_image": "employment_2464202"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809675809_32922ecba9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809675809_ab5a2cfc46_o.png",
-        "id_image": "employment_3896459"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365652_edfa111f5b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365652_0c148b9a87_o.png",
-        "id_image": "employment_4901659"
+        "link_thumb": "https://live.staticflickr.com/65535/51808398442_791d5feee9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808398442_6a29594518_o.png",
+        "id_image": "team_470235"
       }
     ],
-    "hash_code_list_img": "1767812653"
+    "hash_code_list_img": "45761134"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/grinder_lv_img_2500_it.json",
-    "id_item": "grinder_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/baby_lv_img_2500_it.json",
+    "id_item": "baby_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "grinder",
+    "english": "baby",
     "list_mean": [
-      "cối xay (cà phê...) máy nghiền, máy xát, máy xay",
-      "thợ mài, thợ xay, thợ xát",
-      "(từ lóng) người kèm học thi",
-      "học sinh học gạo",
-      "răng hàm",
-      "( số nhiều) tiếng lục cục (khi vặn (rađiô))"
+      "đứa bé mới sinh; trẻ thơ",
+      "người tính trẻ con",
+      "( định ngữ) nhỏ; xinh xinh",
+      "(từ Mỹ,nghĩa Mỹ), (từ lóng) người yêu; con gái",
+      "đối xử như trẻ con, nuông chìu"
     ],
-    "cau_en": "an itinerant grinder",
-    "cau_vn": "thợ mài dao kéo đi rong",
-    "hash_code_list_mean": "273637249",
+    "cau_en": "it is not recommended to baby the naughty children",
+    "cau_vn": "không nên nuông chìu những đứa con hư hỏng",
+    "hash_code_list_mean": "-315731708",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808366207_a1664847a0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808366207_9a979eae56_o.png",
-        "id_image": "grinder_1111097"
+        "link_thumb": "https://live.staticflickr.com/65535/51809323056_981579cda2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809323056_715f517355_o.png",
+        "id_image": "baby_1702330"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809436523_01aa5a3593_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809436523_ca95f03d4f_o.png",
-        "id_image": "grinder_2670368"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810057960_fa0e2f830a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810057960_faa328fa63_o.png",
-        "id_image": "grinder_5181748"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809436598_66e0f5b4da_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809436598_8c1128929c_o.png",
-        "id_image": "grinder_808746"
+        "link_thumb": "https://live.staticflickr.com/65535/51809678239_170e0072e6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809678239_39eacba956_o.png",
+        "id_image": "baby_204646"
       }
     ],
-    "hash_code_list_img": "-1111712205"
+    "hash_code_list_img": "-520547408"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/grant_lv_img_2500_it.json",
-    "id_item": "grant_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/climate_lv_img_2500_it.json",
+    "id_item": "climate_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "grant",
+    "english": "climate",
     "list_mean": [
-      "vật được cho vì một mục đích đặc biệt; tài trợ; trợ cấp",
-      "(pháp lý) sự chuyển nhượng bằng khế ước",
-      "đồng ý cho hoặc cho phép (điều yêu cầu); ban cho; chấp nhận",
-      "ban cái gì cho ai một cách chính thức hoặc hợp pháp; cấp",
-      "đồng ý hoặc chấp nhận (cái gì là thật); công nhận"
+      "khí hậu, thời tiết",
+      "miền khí hậu",
+      "(nghĩa bóng) hoàn cảnh, môi trường, không khí; xu hướng chung (của một tập thể); xu thế (của thời đại)"
     ],
-    "cau_en": "you can get a grant to repair /towards the repair of your house",
-    "cau_vn": "anh có thể được một khoản trợ cấp để sửa chữa/cho việc sưa chữa nhà của anh",
-    "hash_code_list_mean": "1145733540",
+    "cau_en": "continental climate",
+    "cau_vn": "khí hậu lục địa",
+    "hash_code_list_mean": "1348338260",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808370197_f96c212a46_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808370197_39c62e46b9_o.png",
-        "id_image": "grant_2161348"
+        "link_thumb": "https://live.staticflickr.com/65535/51808377112_dc0be3abb8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377112_865dbff371_o.png",
+        "id_image": "climate_1730197"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810062080_ece82428da_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810062080_f56f178669_o.png",
-        "id_image": "grant_2470720"
+        "link_thumb": "https://live.staticflickr.com/65535/51808377072_2f670fb2ed_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377072_8731a89561_o.png",
+        "id_image": "climate_4215414"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376997_73324cfebd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376997_d32ed9fb7a_o.png",
+        "id_image": "climate_5264789"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376982_b733530e3e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376982_3345f07b07_o.png",
+        "id_image": "climate_5493014"
       }
     ],
-    "hash_code_list_img": "-56090397"
+    "hash_code_list_img": "-212335571"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/ornament_lv_img_2500_it.json",
-    "id_item": "ornament_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/prison_lv_img_2500_it.json",
+    "id_item": "prison_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "ornament",
+    "english": "prison",
     "list_mean": [
-      "đồ trang hoàng, đồ trang trí, đồ trang sức; sự trang hoàng",
-      "niềm vinh dự",
-      "( số nhiều) (âm nhạc) nét hoa mỹ",
-      "( số nhiều) (tôn giáo) đồ thờ",
-      "trang hoàng, trang trí"
+      "nhà tù, nhà lao, nhà giam; nơi giam hãm (không thể thoát)",
+      "(thơ ca) giam cầm; giam hãm"
     ],
-    "cau_en": "to be an ornament to one's country",
-    "cau_vn": "là niềm vinh dự cho nước mình; làm vẻ vang cho đất nước mình",
-    "hash_code_list_mean": "846936495",
+    "cau_en": "to escape from /be released from prison ; to come out of prison",
+    "cau_vn": "trốn khỏi/được tha ra khỏi nhà giam; ra tù",
+    "hash_code_list_mean": "-525133775",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810080310_0fecd2755c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810080310_c60f995170_o.png",
-        "id_image": "ornament_1172850"
+        "link_thumb": "https://live.staticflickr.com/65535/51809439178_9102c1b9b4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809439178_5db1c77c34_o.png",
+        "id_image": "prison_2861299"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810080270_e098a3ca31_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810080270_73d31f6fac_o.png",
-        "id_image": "ornament_5493046"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809342791_3019842c87_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809342791_5e8a9bac22_o.png",
-        "id_image": "ornament_5830253"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809342746_77be6e64ed_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809342746_3b5275013f_o.png",
-        "id_image": "ornament_6240758"
+        "link_thumb": "https://live.staticflickr.com/65535/51809324161_2928d1ef15_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809324161_00c3f36b4c_o.png",
+        "id_image": "prison_382273"
       }
     ],
-    "hash_code_list_img": "1732518325"
+    "hash_code_list_img": "392055798"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/profession_lv_img_2500_it.json",
-    "id_item": "profession_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/gossip_lv_img_2500_it.json",
+    "id_item": "gossip_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "profession",
+    "english": "gossip",
     "list_mean": [
-      "nghề, nghề nghiệp",
-      "( the profession ) những người trong nghề, giới",
-      "(tôn giáo) sự tuyên bố tin theo, sự tin theo (đạo...); lời thề tin theo"
+      "chuyện ngồi lê đôi mách, chuyện tầm phào",
+      "việc viết những chuyện lượm lặt về con người và các sự kiện xã hội (trong thư từ hoặc báo chí chẳng hạn)",
+      "đàm luận bao gồm cả những chuyện tầm phào",
+      "người thích chuyện tầm phào",
+      "( to gossip with somebody about something ) ngồi lê đôi mách, nói chuyện tầm phào; nói chuyện phiếm"
     ],
-    "cau_en": "the acting /legal /medical profession",
-    "cau_vn": "nghề diễn viên/pháp chế/y",
-    "hash_code_list_mean": "700640848",
+    "cau_en": "to have a good gossip with one's friends , neighbors",
+    "cau_vn": "tán gẫu với bạn bè, những người láng giềng",
+    "hash_code_list_mean": "-1611491441",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809436678_2c6250a148_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809436678_81d3bd09e2_o.png",
-        "id_image": "professional_2767735"
+        "link_thumb": "https://live.staticflickr.com/65535/51810064905_5a06ab3d28_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810064905_e739ff9f53_o.png",
+        "id_image": "gossip_1935529"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809676504_2e8246e8ee_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809676504_784e6e958e_o.png",
-        "id_image": "professional_4832775"
+        "link_thumb": "https://live.staticflickr.com/65535/51809443173_c57387aa98_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443173_7edacb5da5_o.png",
+        "id_image": "gossip_2117442"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810064800_0f846f6e22_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810064800_2f1151ffeb_o.png",
+        "id_image": "gossip_4278020"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809443068_9ca6be64ec_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443068_496bb98395_o.png",
+        "id_image": "gossip_4441440"
       }
     ],
-    "hash_code_list_img": "-795368277"
+    "hash_code_list_img": "1823280638"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lower_lv_img_2500_it.json",
-    "id_item": "lower_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/operation_lv_img_2500_it.json",
+    "id_item": "operation_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "lower",
+    "english": "operation",
     "list_mean": [
-      "thấp hơn, ở dưới, bậc thấp",
-      "hạ thấp, hạ xuống, kéo xuống",
-      "giảm, hạ (giá cả)",
-      "làm yếu đi, làm giảm đi",
-      "làm xấu đi, làm thành hèn hạ, làm giảm giá trị",
-      "cau mày; có vẻ đe doạ",
-      "tối sầm (trời, mây)"
+      "sự hoạt động; cách hoạt động; quá trình hoạt động",
+      "hoạt động bao gồm nhiều người và/hoặc trải ra một thời gian",
+      "( operation on somebody for something ) ( operation to do something ) sự mổ xẻ; ca mổ (cũng) op",
+      "công ty kinh doanh",
+      "cuộc hành quân; cuộc hành binh",
+      "( Operation ) (quân sự) chiến dịch",
+      "cuộc vận động có kế hoạch trong công nghiệp, kinh doanh...; hoạt động",
+      "(toán học) phép tính; phép toán"
     ],
-    "cau_en": "poor diet lowers resistance to illness",
-    "cau_vn": "chế độ ăn uống kém làm giảm sức đề kháng đối với bệnh tật",
-    "hash_code_list_mean": "-1183671108",
+    "cau_en": "I can steer a motorbike , but I don't understand its operation",
+    "cau_vn": "Tôi có thể điều khiển xe mô tô, nhưng chẳng hiểu cách thức hoạt động của nó ra sao",
+    "hash_code_list_mean": "911899833",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808378587_700a33041a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808378587_27251e527d_o.png",
-        "id_image": "lower_1617773"
+        "link_thumb": "https://live.staticflickr.com/65535/51808391127_4230647ab9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808391127_4596dd1e50_o.png",
+        "id_image": "operation_2191414"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810083560_ef5e937787_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810083560_b172c2b6ec_o.png",
+        "id_image": "operation_3538500"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809346061_2f47f650ae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809346061_32d5db67ec_o.png",
+        "id_image": "operation_3974875"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808391022_2456b6dcb1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808391022_d2769ba243_o.png",
+        "id_image": "operation_4149660"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810083465_cea04e7d83_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810083465_d5a78219b6_o.png",
+        "id_image": "operation_5138535"
       }
     ],
-    "hash_code_list_img": "1888999744"
+    "hash_code_list_img": "1573476196"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/vast_lv_img_2500_it.json",
-    "id_item": "vast_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/broadcast_lv_img_2500_it.json",
+    "id_item": "broadcast_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "vast",
+    "english": "broadcast",
     "list_mean": [
-      "rộng lớn, mênh mông, bao la (về diện tích, cỡ, số lượng, mức độ), vô bờ",
-      "(thông tục) rất lớn",
-      "(thơ ca); (văn học) khoảng rộng bao la"
+      "(nói về tin tức...) được loan truyền qua đài phát thanh hoặc đài truyền hình",
+      "phát (tin tức...) bằng cách truyền thanh hoặc truyền hình",
+      "nói hoặc xuất hiện trên truyền thanh hoặc truyền hình",
+      "phổ biến rộng rãi; quảng bá",
+      "gieo (hạt) bằng cách rải",
+      "chương trình phát thanh hoặc truyền hình"
     ],
-    "cau_en": "a vast expanse of water",
-    "cau_vn": "một vùng nước mênh mông",
-    "hash_code_list_mean": "-1730465360",
+    "cau_en": "to broadcast the up-to-the-minute news , a fashion show , a football match",
+    "cau_vn": "phát tin giờ chót, một buổi trình diễn thời trang, một trận bóng đá",
+    "hash_code_list_mean": "-25456925",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809462763_f52543970d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809462763_3faa52accb_o.png",
-        "id_image": "vast_2472369"
+        "link_thumb": "https://live.staticflickr.com/65535/51809315726_8195aa7171_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809315726_f7fb0e969e_o.png",
+        "id_image": "broadcast_2396257"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808359872_1b294db17b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808359872_4bbf3aebcf_o.png",
+        "id_image": "broadcast_4318954"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809670319_a1854955cf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809670319_eb848ce1b1_o.png",
+        "id_image": "broadcast_5008315"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809430468_994f4c743c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809430468_86512fce1d_o.png",
+        "id_image": "broadcast_6315596"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809670414_6505bc42c7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809670414_39e99f0a1d_o.png",
+        "id_image": "broadcast_650949"
       }
     ],
-    "hash_code_list_img": "706857990"
+    "hash_code_list_img": "1291583331"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/visualize_lv_img_2500_it.json",
-    "id_item": "visualize_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/investment_lv_img_2500_it.json",
+    "id_item": "investment_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "visualize",
+    "english": "investment",
     "list_mean": [
-      "hình dung, mường tượng (vật không thấy trước mắt)"
+      "sự đầu tư; vốn đầu tư",
+      "(như) investiture",
+      "(quân sự) sự bao vây, sự phong toả"
     ],
-    "cau_en": "I remember meeting him but I just can't visualize him",
-    "cau_vn": "tôi nhớ đã gặp anh ta nhưng không tài nào hình dung ra anh ta được",
-    "hash_code_list_mean": "-419002906",
+    "cau_en": "making a profit by careful investment",
+    "cau_vn": "thu lợi nhuận nhờ đầu tư thận trọng",
+    "hash_code_list_mean": "-1924293172",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809697059_06d36f57f9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809697059_5f3fca58fd_o.png",
-        "id_image": "visualize_3062435"
+        "link_thumb": "https://live.staticflickr.com/65535/51809453658_6bf11fcf50_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809453658_d6033f479a_o.png",
+        "id_image": "investment_1329491"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809338576_ec266681b6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809338576_c44eff94b7_o.png",
+        "id_image": "investment_1441962"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808383452_2c212977fc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383452_56e2e97f70_o.png",
+        "id_image": "investment_1442358"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808383527_ed70aab310_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383527_e99c7dddcb_o.png",
+        "id_image": "investment_180816"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808383427_0bde9fe1aa_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383427_15dd4d937f_o.png",
+        "id_image": "investment_2761055"
       }
     ],
-    "hash_code_list_img": "1001702097"
+    "hash_code_list_img": "731098559"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/tender_lv_img_2500_it.json",
-    "id_item": "tender_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/ladle_lv_img_2500_it.json",
+    "id_item": "ladle_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "tender",
+    "english": "ladle",
     "list_mean": [
-      "mềm yếu; dễ gãy; dễ vỡ",
-      "đau đớn khi bị chạm vào; nhạy cảm; tế nhị",
-      "tốt bụng, nhân hậu",
-      "âu yếm; dịu dàng",
-      "(nói về thịt) không dai; mềm",
-      "(nhất là trong từ ghép) người trông nom, người chăm sóc, người giữ",
-      "toa than, toa nước (của xe lửa)",
-      "(hàng hải) tàu liên lạc, tàu tiếp liệu",
-      "( to tender something to somebody ) đưa hoặc đề nghị cái gì một cách trịnh trọng, chính thức; đệ trình",
-      "sự bỏ thầu",
-      "( to tender for something ) đưa ra một đề nghị để thực hiện một công việc với giá được nói rõ; bỏ thầu"
+      "cái môi (để múc)",
+      "múc bằng môi"
     ],
-    "cau_en": "firms were invited to tender for the construction of the new highway",
-    "cau_vn": "các công ty được mời bỏ thầu để xây dựng xa lộ mới",
-    "hash_code_list_mean": "1822267790",
+    "cau_en": "to ladle out soup",
+    "cau_vn": "múc súp bằng môi",
+    "hash_code_list_mean": "1066913385",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809706964_694f65f10c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809706964_d014680332_o.png",
-        "id_image": "tender_2104152"
+        "link_thumb": "https://live.staticflickr.com/65535/51808367947_5914fa2aa9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808367947_49952ede75_o.png",
+        "id_image": "ladle_4975117"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438218_4800f44533_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438218_a4a4862c23_o.png",
+        "id_image": "ladle_628152"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438173_03c3515cc1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438173_6f5c80067f_o.png",
+        "id_image": "ladle_904632"
       }
     ],
-    "hash_code_list_img": "1337741710"
+    "hash_code_list_img": "-185762073"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/cradle_lv_img_2500_it.json",
-    "id_item": "cradle_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/chain_lv_img_2500_it.json",
+    "id_item": "chain_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "cradle",
+    "english": "chain",
     "list_mean": [
-      "cái nôi",
-      "(nghĩa bóng) nguồn gốc, gốc, nơi bắt nguồn, cái nôi",
-      "(hàng hải) giàn giữ tàu (khi đóng hoặc sửa chữa)",
-      "cái khung gạt",
-      "thùng đãi vàng",
-      "giá để ống nghe (của máy điện thoại)",
-      "đặt (đứa trẻ) vào nôi; bế ẵm nâng niu bế đứa trẻ trong tay",
-      "đặt (tàu) vào giá (để đóng hoặc sửa chữa)",
-      "cắt (lúa...) bằng hái có khung gạt",
-      "đãi (quặng vàng)"
+      "dây, xích",
+      "dãy, chuỗi, loạt",
+      "thước dây (để đo chiều dài); dây (chiều dài của thước dây, bằng 20 m 115)",
+      "dây chuyền (làm việc...)",
+      "( số nhiều) xiềng xích",
+      "xích lại, trói buộc, buộc chặt ( (nghĩa đen) & (nghĩa bóng))",
+      "ngáng dây (qua đường phố...)",
+      "đo bằng thước dây"
     ],
-    "cau_en": "the cradle of the Anglo-Saxon",
-    "cau_vn": "nguồn gốc người Ang-lô Xắc-xông",
-    "hash_code_list_mean": "-7938221",
+    "cau_en": "a chain of mountains",
+    "cau_vn": "một dãy núi",
+    "hash_code_list_mean": "-1865382662",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810061415_b8a8af0d12_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810061415_e6d4bfe82e_o.png",
-        "id_image": "cradle_1606459"
+        "link_thumb": "https://live.staticflickr.com/65535/51809315756_1e87350e9d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809315756_fa0bf448de_o.png",
+        "id_image": "chain_1788988"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809679744_ea29f81c92_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809679744_16b10c1f89_o.png",
-        "id_image": "cradle_191530"
+        "link_thumb": "https://live.staticflickr.com/65535/51808359952_a8a7642e02_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808359952_c563126448_o.png",
+        "id_image": "chain_979733"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810061440_156633e01a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810061440_8aed78a1db_o.png",
-        "id_image": "cradle_191535"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809324441_ccba7562d7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809324441_85b592823c_o.png",
-        "id_image": "cradle_2917459"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809439458_31732215e7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809439458_871be8fbb1_o.png",
-        "id_image": "cradle_5233840"
+        "link_thumb": "https://live.staticflickr.com/65535/51809670464_c0c80f3b1d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809670464_e55dc7653d_o.png",
+        "id_image": "chain_979734"
       }
     ],
-    "hash_code_list_img": "384714010"
+    "hash_code_list_img": "1505529784"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/reception_lv_img_2500_it.json",
-    "id_item": "reception_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/bold_lv_img_2500_it.json",
+    "id_item": "bold_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "reception",
+    "english": "bold",
     "list_mean": [
-      "sự nhận, sự thu nhận, sự lĩnh",
-      "sự tiếp nhận, sự kết nạp (vào một tổ chức nào...)",
-      "sự đón tiếp",
-      "sự tiếp nhận; tiệc chiêu đãi",
-      "(kỹ thuật), (rađiô) sự thu; phép thu",
-      "sự tiếp thu (tư tưởng...)"
+      "dũng cảm, táo bạo, cả gan",
+      "trơ trẽn, trơ tráo, liều lĩnh",
+      "rõ nét, đậm nét",
+      "dốc ngược, dốc đứng"
     ],
-    "cau_en": "to be honoured by reception into the Academy",
-    "cau_vn": "được vinh dự tiếp nhận vào viện hàn lâm",
-    "hash_code_list_mean": "-1838818184",
+    "cau_en": "the bold outline of the mountain",
+    "cau_vn": "đường nét rất rõ của quả núi",
+    "hash_code_list_mean": "-1553510703",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809335916_575b7ca2fb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809335916_8f2ffcf824_o.png",
-        "id_image": "reception_1209473"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809450848_f1474f3f21_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809450848_84c2c9d40e_o.png",
-        "id_image": "reception_3595900"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809450928_7e6c78e2b4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809450928_a2dfa7b1cc_o.png",
-        "id_image": "reception_453346"
+        "link_thumb": "https://live.staticflickr.com/65535/51809680814_364acc947f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809680814_a0fa5021ef_o.png",
+        "id_image": "bold_1833900"
       }
     ],
-    "hash_code_list_img": "1760602884"
+    "hash_code_list_img": "956321390"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/strap_lv_img_2500_it.json",
-    "id_item": "strap_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/continuous_lv_img_2500_it.json",
+    "id_item": "continuous_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "strap",
+    "english": "continuous",
     "list_mean": [
-      "dây (da, lụa, vải...); đai; quai",
-      "dải vải hẹp đeo qua vai như một bộ phận của một chiếc áo..",
-      "dây liếc dao cạo",
-      "(kỹ thuật) bản giằng (mảnh sắt nối hai tấm gỗ...)",
-      "( the strap ) hình phạt đánh bằng dây da, roi da",
-      "cánh bản lề",
-      "cột bằng dây da, buộc bằng dây da; đeo bằng dây da, trói bằng dây da; đánh đai",
-      "liếc (dao cạo)",
-      "(y học) băng, buộc (vết thương..) bằng băng dính",
-      "đánh bằng dây da, đánh bằng roi da"
+      "liên tục, liên tiếp, không dứt, không ngừng",
+      "(ngôn ngữ học) tiến hành",
+      "( ra-đi-ô) duy trì"
     ],
-    "cau_en": "a summer dress with thin shoulder-straps",
-    "cau_vn": "một chiếc áo dài mùa hè với những dây brơten mỏnh mảnh",
-    "hash_code_list_mean": "208418550",
+    "cau_en": "continuous function",
+    "cau_vn": "(toán học) hàm liên tục",
+    "hash_code_list_mean": "-1683696693",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809458658_3c5435f3ee_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809458658_1d13936f31_o.png",
-        "id_image": "strap_2044023"
+        "link_thumb": "https://live.staticflickr.com/65535/51808350987_2aebd6e4fd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808350987_e5c265712d_o.png",
+        "id_image": "continuous_1768935"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808388862_07c06398d4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808388862_19e9a6ff00_o.png",
-        "id_image": "strap_372583"
+        "link_thumb": "https://live.staticflickr.com/65535/51810043800_5b13ff71cc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810043800_1baf350282_o.png",
+        "id_image": "continuous_2631389"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808388772_4aa2682153_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808388772_b342ceb1a7_o.png",
-        "id_image": "strap_4656913"
+        "link_thumb": "https://live.staticflickr.com/65535/51809662139_fc3fb92f67_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809662139_70043891f5_o.png",
+        "id_image": "continuous_3079125"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809421908_804dcaaf49_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809421908_3c7caf2aa3_o.png",
+        "id_image": "continuous_3475493"
       }
     ],
-    "hash_code_list_img": "-1585518365"
+    "hash_code_list_img": "910221801"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/market_lv_img_2500_it.json",
-    "id_item": "market_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/scramble_lv_img_2500_it.json",
+    "id_item": "scramble_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "market",
+    "english": "scramble",
     "list_mean": [
-      "chợ",
-      "thị trường, nơi tiêu thụ; khách hàng",
-      "giá thị trường; tình hình thị trường",
-      "bán ở chợ, bán ở thị trường",
-      "mua bán ở chợ"
+      "sự bò, sự trườn (trên miếng đất mấp mô)",
+      "cuộc thi mô tô, cuộc thử mô tô (trên bãi đất ghồ ghề)",
+      "( scramble for something ) sự tranh cướp, sự tranh giành ( (nghĩa đen) & (nghĩa bóng))",
+      "bò, toài, trườn (trên đất mấp mô)",
+      "( to scramble for something ) tranh cướp, tranh giành ( (nghĩa đen) & (nghĩa bóng))",
+      "( to scramble something up ) trộn (nhiều vật) với nhau cho rối lên",
+      "(làm cho máy bay (quân sự)) đột ngột cất cánh",
+      "khuấy (trứng) bằng cách trộn lòng trắng và lòng đỏ với nhau trong lúc đang nấu với sữa và bơ; bác trứng",
+      "đổi tần số (ở (rađiô)...) để không ai nghe trộm được",
+      "góp nhóp; nhặt nhạnh"
     ],
-    "cau_en": "Chinese bicycles have flooded the Vietnamese market",
-    "cau_vn": "xe đạp Trung Quốc đã tràn ngập thị trường Việt Nam",
-    "hash_code_list_mean": "2107478670",
+    "cau_en": "Players scrambling for possession of the ball",
+    "cau_vn": "Các cầu thủ giành bóng với nhau",
+    "hash_code_list_mean": "-914883442",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809322941_66f2910ea0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809322941_89d28fd993_o.png",
-        "id_image": "market_1901411"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809438073_b8130edfb8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809438073_a4955e5070_o.png",
-        "id_image": "market_6248847"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809678129_fba5839763_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809678129_bd10e0e762_o.png",
-        "id_image": "market_831495"
+        "link_thumb": "https://live.staticflickr.com/65535/51810064895_918e31dfe1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810064895_940be1bb11_o.png",
+        "id_image": "scramble_4882869"
       }
     ],
-    "hash_code_list_img": "-2093237914"
+    "hash_code_list_img": "1423138548"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/stunt_lv_img_2500_it.json",
-    "id_item": "stunt_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/goodwill_lv_img_2500_it.json",
+    "id_item": "goodwill_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "stunt",
+    "english": "goodwill",
     "list_mean": [
-      "(từ Mỹ,nghĩa Mỹ) sự làm cằn cỗi, sự làm còi cọc",
-      "người còi cọc, con vật còi cọc",
-      "làm chậm sự phát triển, làm cằn cỗi, làm còi cọc",
-      "(thông tục) sự cố gắng kỳ công, sự cố gắng tập trung",
-      "cuộc biểu diễn nguy hiểm; trò nguy hiểm (để giải trí)",
-      "trò quảng cáo; cái làm để thu hút sự chú ý",
-      "(thông tục) biểu diễn các trò nguy hiểm",
-      "biểu diễn nhào lộn bằng (máy bay...)"
+      "thiện ý, thiện chí; lòng tốt",
+      "(thương nghiệp) khách hàng; sự tín nhiệm (đối với khách hàng)",
+      "(thương nghiệp) đặc quyền kế nghiệp"
     ],
-    "cau_en": "stunted trees",
-    "cau_vn": "những cây còi cọc",
-    "hash_code_list_mean": "1851609024",
+    "cau_en": "people of goodwill",
+    "cau_vn": "những người có thiện chí",
+    "hash_code_list_mean": "-334636882",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809340831_698ba33fdc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809340831_56e205c476_o.png",
-        "id_image": "stunt_6246642"
+        "link_thumb": "https://live.staticflickr.com/65535/51810065265_82445e7493_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065265_1af00220ec_o.png",
+        "id_image": "goodwill_1721208"
       }
     ],
-    "hash_code_list_img": "958301694"
+    "hash_code_list_img": "1870436212"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/baggage_lv_img_2500_it.json",
-    "id_item": "baggage_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/transform_lv_img_2500_it.json",
+    "id_item": "transform_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "baggage",
+    "english": "transform",
     "list_mean": [
-      "(từ Mỹ,nghĩa Mỹ) hành lý",
-      "(quân sự) trang bị cầm tay (của quân đội trong lúc hành quân)",
-      "(thông tục); con mụ vô dụng, con mụ vô tích sự; con ranh con"
+      "( to transform somebody / something from something into something ) thay đổi hoàn toàn vẻ bề ngoài hoặc tính chất của ai/cái gì; biến đổi"
     ],
-    "cau_en": "impudent baggage",
-    "cau_vn": "con ranh con, con mặt cứ trơ ra, con ranh con mặt dày mày dạn",
-    "hash_code_list_mean": "-474994537",
+    "cau_en": "a complete change of climate which transformed the area from a desert into a swamp",
+    "cau_vn": "sự thay đổi toàn diện về khí hậu đã biến đổi vùng này từ sa mạc thành đầm lầy",
+    "hash_code_list_mean": "-2048926094",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810057015_e72cdacab1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810057015_ebf46108e0_o.png",
-        "id_image": "baggage_2327395"
+        "link_thumb": "https://live.staticflickr.com/65535/51809453483_1c20058a62_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809453483_fdd40fc870_o.png",
+        "id_image": "transform_232965"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365122_499dc1ec88_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365122_ff2a9b4122_o.png",
-        "id_image": "baggage_2332030"
+        "link_thumb": "https://live.staticflickr.com/65535/51809693619_cc6f5ea66f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809693619_5fa2258199_o.png",
+        "id_image": "transform_2587057"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810056925_08c3bec744_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810056925_e59c8ec583_o.png",
-        "id_image": "baggage_5207642"
+        "link_thumb": "https://live.staticflickr.com/65535/51810075495_58a8c263b3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075495_e29f4d5292_o.png",
+        "id_image": "transform_448110"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365067_1d2e255bd5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365067_d17570dfbb_o.png",
-        "id_image": "baggage_5772870"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365222_e91ba0cbdf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365222_97b04b7562_o.png",
-        "id_image": "baggage_824214"
+        "link_thumb": "https://live.staticflickr.com/65535/51808383337_b882de8cb3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808383337_be6e1bd216_o.png",
+        "id_image": "transform_5266069"
       }
     ],
-    "hash_code_list_img": "-1934639649"
+    "hash_code_list_img": "473002107"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/nail_lv_img_2500_it.json",
-    "id_item": "nail_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/hungry_lv_img_2500_it.json",
+    "id_item": "hungry_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "nail",
+    "english": "hungry",
     "list_mean": [
-      "móng (tay; chân); móng vuốt (thú vật)",
-      "cái đinh",
-      "nên (đơn vị (đo lường) thời cổ, bằng khoảng 55 cm)",
-      "đóng đinh; (nghĩa bóng) ghìm chặt",
-      "(từ lóng) bắt giữ, tóm"
+      "đói, cảm thấy đói, ra vẻ đói ăn",
+      "làm cho thấy đói, gợi thèm (ăn)",
+      "(nghĩa bóng) khao khát, thèm khát, ham muốn",
+      "xấu, khô cằn"
     ],
-    "cau_en": "to nail someone down to his promise",
-    "cau_vn": "bắt ai phải giữ lời hứa",
-    "hash_code_list_mean": "1217797149",
+    "cau_en": "a lean and hungry look",
+    "cau_vn": "vẻ gầy còm đói ăn",
+    "hash_code_list_mean": "806245186",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808374022_40c03b67cc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808374022_07c93ef390_o.png",
-        "id_image": "nail_215254"
+        "link_thumb": "https://live.staticflickr.com/65535/51809327566_21ee51bdf1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327566_61a3432c89_o.png",
+        "id_image": "hungry_3220703"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809444278_d9789ba76f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809444278_9608137e47_o.png",
-        "id_image": "nail_280160"
+        "link_thumb": "https://live.staticflickr.com/65535/51809442538_bcc7ba94fe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442538_ab318a3d1e_o.png",
+        "id_image": "hungry_3255702"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809442483_57ca38081c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442483_d411e0ab5f_o.png",
+        "id_image": "hungry_4138780"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809682569_44fcc7b7c8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682569_bf62b6f2af_o.png",
+        "id_image": "hungry_5046973"
       }
     ],
-    "hash_code_list_img": "1786294155"
+    "hash_code_list_img": "2127396797"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/extension_lv_img_2500_it.json",
-    "id_item": "extension_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/pouch_lv_img_2500_it.json",
+    "id_item": "pouch_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "extension",
+    "english": "pouch",
     "list_mean": [
-      "sự duỗi thẳng ra (chân, tay hoặc ngón tay)",
-      "sự gia hạn; sự mở rộng",
-      "sự dành cho",
-      "(điện thoại) đường dây điện thoại đi từ máy điện thoại chính hoặc từ tổng đài tới một văn phòng kháctrong một toà nhà lớn; số của đường dây điện thoại ấy; máy nhánh"
+      "túi nhỏ, bao nhỏ (nhất là bằng da)",
+      "mọng mắt (phía dưới mắt của người ốm)",
+      "(quân sự) túi đạn (bằng da)",
+      "(động vật học) túi (của con cái để mang con; con can-gu-ru..), túi (ở trong má) một vài loại gặm nhấm (đề dự trữ thức ăn)",
+      "(thực vật học) khoang túi; vỏ quả",
+      "(từ cổ,nghĩa cổ) túi tiền, hầu bao",
+      "cho vào túi, bỏ túi",
+      "(từ lóng) đãi tiền diêm thuốc, cho tiền",
+      "làm (một bộ phận của áo) thõng xuống như túi",
+      "thõng xuống như túi (một bộ phận của áo)",
+      "có dạnh túi"
     ],
-    "cau_en": "he's got an extension to finish making his first film",
-    "cau_vn": "anh ấy được gia hạn để làm xong bộ phim đầu tiên của anh ấy",
-    "hash_code_list_mean": "-881404780",
+    "cau_en": "a tobacco-pouch",
+    "cau_vn": "túi đựng thuốc",
+    "hash_code_list_mean": "1808832470",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810078060_f4997ff27f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810078060_6dc3fcf598_o.png",
-        "id_image": "extension_4370965"
+        "link_thumb": "https://live.staticflickr.com/65535/51809447023_34aa62510a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447023_9a02395bf5_o.png",
+        "id_image": "pouch_1037916"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808385637_f9bbb79a8c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808385637_02de2ebaff_o.png",
-        "id_image": "extension_5613361"
+        "link_thumb": "https://live.staticflickr.com/65535/51808376712_82e1519338_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376712_4931705121_o.png",
+        "id_image": "pouch_5362148"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809455608_21db5c3a2c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809455608_a633f4b75a_o.png",
-        "id_image": "extension_649819"
+        "link_thumb": "https://live.staticflickr.com/65535/51809331931_6d38db94c6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331931_0aae3771c1_o.png",
+        "id_image": "pouch_5485741"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808376822_4357b8bedc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808376822_b949bebbbb_o.png",
+        "id_image": "pouch_649073"
       }
     ],
-    "hash_code_list_img": "1049064959"
+    "hash_code_list_img": "-841529510"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/jam_lv_img_2500_it.json",
-    "id_item": "jam_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/diversify_lv_img_2500_it.json",
+    "id_item": "diversify_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "jam",
+    "english": "diversify",
     "list_mean": [
-      "mứt",
-      "sự kẹp chặt, sự ép chặt",
-      "sự ấn vào, sự tọng vào, sự nhồi nhét",
-      "đám đông chen chúc, đám đông tắc nghẽn",
-      "sự mắc kẹt, sự kẹt (máy...)",
-      "(thông tục) tình hình khó khăn, tình thế khó xử, hoàn cảnh bế tắc",
-      "(rađiô) nhiễu (lúc thu)",
-      "ép chặt, kẹp chặt",
-      "( (thường) + into ) ấn vào, tọng vào, nhồi nhét, nhồi chặt",
-      "làm tắc nghẽn (đường xá...)",
-      "(kỹ thuật) làm mắc kẹt, kẹt chặt, hãm kẹt lại; chêm, chèn",
-      "(rađiô) phá, làm nhiễu (một chương trình phát thanh, làn sóng...)",
-      "bị chêm chặt, mắc kẹt, kẹt chặt (bộ phận máy...)",
-      "bị ép chặt, bị xếp chật ních, bị nhồi chặt",
-      "(từ Mỹ,nghĩa Mỹ), (từ lóng) ứng tác, ứng tấu (nhạc ja)"
+      "đa dạng hoá"
     ],
-    "cau_en": "to jam one's finger in the door",
-    "cau_vn": "kẹp ngón tay ở cửa",
-    "hash_code_list_mean": "1023888628",
+    "cau_en": "to diversify the forms of vocational training",
+    "cau_vn": "đa dạng hoá các loại hình dạy nghề",
+    "hash_code_list_mean": "1969713055",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809335846_c26fedf3f0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809335846_4f9a023f61_o.png",
-        "id_image": "jam_1547923"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808380912_b036f41283_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808380912_c6fc1669ff_o.png",
-        "id_image": "jam_1682257"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810072840_3d61b797ff_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810072840_5fc8b0f7d4_o.png",
-        "id_image": "jam_790635"
+        "link_thumb": "https://live.staticflickr.com/65535/51808357337_7771ddd638_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808357337_b982d0f861_o.png",
+        "id_image": "diversify_1753656"
       }
     ],
-    "hash_code_list_img": "1646068914"
+    "hash_code_list_img": "891684772"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_0/raw/main/cope_lv_img_2500_it.json",
-    "id_item": "cope_lv_img_2500_it",
+    "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/gloat_lv_img_2500_it.json",
+    "id_item": "gloat_lv_img_2500_it",
     "id_album": "570943457",
-    "english": "cope",
+    "english": "gloat",
     "list_mean": [
-      "(tôn giáo) áo lễ",
-      "(nghĩa bóng) bầu, vòm; áo khoác, màn",
-      "nắp khuôn đúc",
-      "(như) coping",
-      "(kỹ thuật) cái chao, cái chụp",
-      "khoác áo lễ (cho giáo sĩ)",
-      "xây vòm",
-      "xây mái (một bức tường)",
-      "( + over ) lồi ra (như) phần trên cùng của tường",
-      "( + with ) đối phó, đương đầu"
+      "nhìn hau háu, nhìn một cách thèm muốn",
+      "hể hả, hả hê"
     ],
-    "cau_en": "to cope with difficulties",
-    "cau_vn": "đương đầu với những khó khăn",
-    "hash_code_list_mean": "462598898",
+    "cau_en": "to gloat over (upon , on ) something",
+    "cau_vn": "nhìn vật gì một cách thèm muốn",
+    "hash_code_list_mean": "-1829645551",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808378192_438dc7fca4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808378192_a98db0c4d5_o.png",
-        "id_image": "cope_6159126"
+        "link_thumb": "https://live.staticflickr.com/65535/51809331461_09d839a582_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331461_6d91b46685_o.png",
+        "id_image": "gloat_708666"
       }
     ],
-    "hash_code_list_img": "1223960173"
+    "hash_code_list_img": "1993877790"
   }
 ]
